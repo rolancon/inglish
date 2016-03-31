@@ -19,7 +19,7 @@ Inglish adheres to the following principles:
 - This means the same character can have multiple renderings, each with a different punctuation, that symbolize 1 distinct sound per punctuated character
 - Only use extended characters with punctuation that appears on top or under base Latin characters, in other words that do not modify the glyph of the base character
 - The only minor exception is for extended characters that replace the dot on top of the 'i' and 'j' characters
-- Characters that are not pronounced are formatted with small markup
+- Characters that are not pronounced are formatted with del markup
 - Sounds that do not appear in the spelling of the word are shown as characters that are formatted with inserted markup
 - For words that have at least syllables the primary stress is shown with bold (strong) markup
 - For words with more than two syllables the secondary stress is shown with italic (emphasized) markup
@@ -36,15 +36,14 @@ Inglish adheres to the following principles:
 |did|d&#x00EC;d||
 |nod|n&#x00F2;d||
 |bud|b&#x00F9;d||
-|hymn|h&#x1EF3;m<small>n</small>||
+|hymn|h&#x1EF3;m<del>n</del>||
 
 ### Open vowels
 |English|Inglish|IPA|
 |:-----:|:-----:|:-:|
-|ate|&#x00E1;t<small>e</small>||
+|ate|&#x00E1;t<del>e</del>||
 |me|m&#x00E9;||
 |hi|h&#x00ED;||
 |no|n&#x00F3;||
-|sue|s&#x00FA;<small>e</small>||
-|why|w<small>h</small>&#x00FD;||
-
+|sue|s&#x00FA;<del>e</del>||
+|why|w<del>h</del>&#x00FD;||
