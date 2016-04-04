@@ -29,8 +29,8 @@ Inglish adheres to the following principles:
 ## Charts
 
 ### Closed vowels
-|_|English|Inglish|IPA|
-|-|:-----:|:-----:|:-:|
+||English|Inglish|IPA|
+|:-:|:-----:|:-----:|:-:|
 |a|bad|b&#x00E0;d||
 |e|bed|b&#x00E8;d||
 |i|did|d&#x00EC;d||
