@@ -23,7 +23,7 @@ Inglish adheres to the following principles:
 - Characters that are not pronounced are formatted with italic markup
 - Sounds that do not appear in the spelling of the word are shown as characters that are formatted with inserted markup
 - The primary stress is shown with bold (strong) markup
-- The aspirated unvoiced stop is shown as a Unicode character U+00B4 acute accent (&#x00B4;) appended to the 't', 'p' or 'k' character
+- The aspirated unvoiced stop is shown as a Unicode character U+00B4 acute accent (&#x00B4;) appended to the 't', 'p', 'k' or 'q' character
 - A compound noun is shown with a Unicode character U+00B7 middle dot (&#x00B7;) in between
 
 ## Charts
@@ -54,19 +54,19 @@ Inglish adheres to the following principles:
 |b|bad|b<b>&#x00E0;</b>d||
 |c|can|c<b>&#x00E0;</b>n||
 |d|did|d<b>&#x00EC;</b>d||
-|far||f<b>&#x00E2;</b>r||
-|gun||g<b>&#x00F9;</b>n||
-|hot||h<b>&#x00F2;</b>t||
-|jar||j<b>&#x00E2;</b>r||
-|keep||k<b>&#x00E9;</b><i>e</i>p||
-|l||<b>&#x00;</b>||
-|m||<b>&#x00;</b>||
-|n||<b>&#x00;</b>||
-|p||<b>&#x00;</b>||
-|q||<b>&#x00;</b>||
+|f|far|f<b>&#x00E2;</b>r||
+|g|gun|g<b>&#x00F9;</b>n||
+|h|hi|h<b>&#x00ED;</b>||
+|j|jar|j<b>&#x00E2;</b>r||
+|k|keep|k<b>&#x00B4;&#x00E9;</b><i>e</i>p||
+|l|lid|l<b>&#x00EC;</b>d||
+|m|me|m<b>&#x00E9;</b>||
+|n|no|n<b>&#x00F3;</b>||
+|p||<b>&#x00B4;&#x00;</b>||
+|q||<b>&#x00B4;&#x00;</b>||
 |r||<b>&#x00;</b>||
 |s||<b>&#x00;</b>||
-|t||<b>&#x00;</b>||
+|t||<b>&#x00B4;&#x00;</b>||
 |v||<b>&#x00;</b>||
 |w||<b>&#x00;</b>||
 |x||<b>&#x00;</b>||
