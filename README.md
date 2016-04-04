@@ -31,22 +31,22 @@ Inglish adheres to the following principles:
 ### Closed vowels
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|a|b<b>a</b>d|b<b>&#x00E0;</b>d||
-|e|b<b>e</b>d|b<b>&#x00E8;</b>d||
-|i|d<b>i</b>d|d<b>&#x00EC;</b>d||
-|o|n<b>o</b>d|n<b>&#x00F2;</b>d||
-|u|b<b>u</b>d|b<b>&#x00F9</b>;d||
-|u|h<b>ym</b>n|h<b>&#x1EF3;</b>m<i>n</i>||
+|a|bad|b<b>&#x00E0;</b>d||
+|e|bed|b<b>&#x00E8;</b>d||
+|i|did|d<b>&#x00EC;</b>d||
+|o|nod|n<b>&#x00F2;</b>d||
+|u|bud|b<b>&#x00F9;</b>d||
+|y|hymn|h<b>&#x1EF3;</b>m<i>n</i>||
 
 ### Open vowels
-|English|Inglish|IPA|
-|:-----:|:-----:|:-:|
-|<b>a</b>te|<b>&#x00E1;</b>t<i>e</i>||
-|m<b>e</b>|m<b>&#x00E9;</b>||
-|h<b>i</b>|h<b>&#x00ED;</b>||
-|n<b>o</b>|n<b>&#x00F3;</b>||
-|s<b>u</b>e|s<b>&#x00FA;</b><i>e</i>||
-|wh<b>y</b>|w<i>h</i><b>&#x00FD;</b>||
+||English|Inglish|IPA|
+|:-:|:-----:|:-----:|:-:|
+|a|ate|<b>&#x00E1;</b>t<i>e</i>||
+|e|me|m<b>&#x00E9;</b>||
+|i|hi|h<b>&#x00ED;</b>||
+|o|no|n<b>&#x00F3;</b>||
+|u|sue|s<b>&#x00FA;</b><i>e</i>||
+|y|why|w<i>h</i><b>&#x00FD;</b>||
 
 ### Basic consonants
 |English|Inglish|IPA|
