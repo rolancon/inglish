@@ -31,12 +31,12 @@ Inglish adheres to the following principles:
 ### Closed vowels
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|a|bad|b&#x00E0;d||
-|e|bed|b&#x00E8;d||
-|i|did|d&#x00EC;d||
-|o|nod|n&#x00F2;d||
-|u|bud|b&#x00F9;d||
-|u|hymn|h&#x1EF3;m<i>n</i>||
+|a|b<b>a</b>d|b<b>&#x00E0;</b>d||
+|e|b<b>e</b>d|b<b>&#x00E8;</b>d||
+|i|d<b>i</b>d|d<b>&#x00EC;</b>d||
+|o|n<b>o</b>d|n<b>&#x00F2;</b>d||
+|u|b<b>u</b>d|b<b>&#x00F9</b>;d||
+|u|h<b>ym</b>n|h<b>&#x1EF3;</b>m<i>n</i>||
 
 ### Open vowels
 |English|Inglish|IPA|
