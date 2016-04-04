@@ -41,7 +41,7 @@ Inglish adheres to the following principles:
 ### Open vowels
 |English|Inglish|IPA|
 |:-----:|:-----:|:-:|
-|ate|&#x00E1;t<i>e</i>||
+|ate|&#x00E1;t<sub>e</sub>||
 |me|m&#x00E9;||
 |hi|h&#x00ED;||
 |no|n&#x00F3;||
