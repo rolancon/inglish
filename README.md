@@ -45,5 +45,5 @@ Inglish adheres to the following principles:
 |me|m&#x00E9;||
 |hi|h&#x00ED;||
 |no|n&#x00F3;||
-|sue|s&#x00FA;<sup><sub>e</sub></sup>||
+|sue|s&#x00FA;<sub><sup>e</sup></sub>||
 |why|w<i>h</i>&#x00FD;||
