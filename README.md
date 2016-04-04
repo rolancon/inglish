@@ -36,14 +36,14 @@ Inglish adheres to the following principles:
 |did|d&#x00EC;d||
 |nod|n&#x00F2;d||
 |bud|b&#x00F9;d||
-|hymn|h&#x1EF3;m<del>n</del>||
+|hymn|h&#x1EF3;m<i>n</i>||
 
 ### Open vowels
 |English|Inglish|IPA|
 |:-----:|:-----:|:-:|
-|ate|&#x00E1;t<del>e</del>||
+|ate|&#x00E1;t<i>e</i>||
 |me|m&#x00E9;||
 |hi|h&#x00ED;||
 |no|n&#x00F3;||
-|sue|s&#x00FA;<del>e</del>||
-|why|w<del>h</del>&#x00FD;||
+|sue|s&#x00FA;<i>e</i>||
+|why|w<i>h</i>&#x00FD;||
