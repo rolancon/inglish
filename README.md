@@ -29,14 +29,14 @@ Inglish adheres to the following principles:
 ## Charts
 
 ### Closed vowels
-|English|Inglish|IPA|
-|:-----:|:-----:|:-:|
-|bad|b&#x00E0;d||
-|bed|b&#x00E8;d||
-|did|d&#x00EC;d||
-|nod|n&#x00F2;d||
-|bud|b&#x00F9;d||
-|hymn|h&#x1EF3;m<i>n</i>||
+|_|English|Inglish|IPA|
+|-|:-----:|:-----:|:-:|
+|a|bad|b&#x00E0;d||
+|e|bed|b&#x00E8;d||
+|i|did|d&#x00EC;d||
+|o|nod|n&#x00F2;d||
+|u|bud|b&#x00F9;d||
+|u|hymn|h&#x1EF3;m<i>n</i>||
 
 ### Open vowels
 |English|Inglish|IPA|
@@ -51,8 +51,8 @@ Inglish adheres to the following principles:
 ### Basic consonants
 |English|Inglish|IPA|
 |:-----:|:-----:|:-:|
-|<b>b</b>ad|<b>b</b>&#x00E0;d||
-|<b>c</b>an|c&#x00E0;n||
+|b<b>a</b>d|b<b>&#x00E0;</b>d||
+|c<b>a</b>n|c<b>&#x00E0;</b>n||
 |did|d&#x00EC;d||
 |nod|n&#x00F2;d||
 |bud|b&#x00F9;d||
