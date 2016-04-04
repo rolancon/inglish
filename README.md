@@ -58,7 +58,7 @@ Inglish adheres to the following principles:
 |g|gun|g<b>&#x00F9;</b>n||
 |h|hi|h<b>&#x00ED;</b>||
 |j|jar|j<b>&#x00E2;</b>r||
-|k|keep|k<b>&#x00B7;&#x00E9;</b><i>e</i>p||
+|k|keep|<ins>k</ins><b>&#x00E9;</b><i>e</i>p||
 |l|lid|l<b>&#x00EC;</b>d||
 |m|me|m<b>&#x00E9;</b>||
 |n|no|n<b>&#x00F3;</b>||
@@ -66,7 +66,7 @@ Inglish adheres to the following principles:
 |q||<b>&#x00B4;&#x00;</b>||
 |r||<b>&#x00;</b>||
 |s||<b>&#x00;</b>||
-|t||<b>&#x00B7;&#x00;</b>||
+|t||<b>&#x00;</b>||
 |v||<b>&#x00;</b>||
 |w||<b>&#x00;</b>||
 |x||<b>&#x00;</b>||
