@@ -41,9 +41,19 @@ Inglish adheres to the following principles:
 ### Open vowels
 |English|Inglish|IPA|
 |:-----:|:-----:|:-:|
-|ate|&#x00E1;t<i>e</i>||
-|me|m&#x00E9;||
-|hi|h&#x00ED;||
-|no|n&#x00F3;||
-|sue|s&#x00FA;<i>e</i>||
-|why|w<i>h</i>&#x00FD;||
+|<b>a</b>te|<b>&#x00E1;</b>t<i>e</i>||
+|m<b>e</b>|m<b>&#x00E9;</b>||
+|h<b>i</b>|h<b>&#x00ED;</b>||
+|n<b>o</b>|n<b>&#x00F3;</b>||
+|s<b>u</b>e|s<b>&#x00FA;</b><i>e</i>||
+|wh<b>y</b>|w<i>h</i><b>&#x00FD;</b>||
+
+### Basic consonants
+|English|Inglish|IPA|
+|:-----:|:-----:|:-:|
+|<b>b</b>ad|<b>b</b>&#x00E0;d||
+|<b>c</b>an|c&#x00E0;n||
+|did|d&#x00EC;d||
+|nod|n&#x00F2;d||
+|bud|b&#x00F9;d||
+|hymn|h&#x1EF3;m<i>n</i>||
