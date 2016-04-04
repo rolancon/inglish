@@ -14,17 +14,17 @@ Inglish adheres to the following principles:
 - Keep the current spelling conventions for English as its basis
 - However, only use lowercase letters for dictionary words
 - Do not spell names phonetically: keep uppercase letters
+- Do not spell foreign words phonetically: keep vowels and consonants as-is
 - Use the semicolon (;) to separate sentences instead of the full stop (.)
 - Use extended characters from the Unicode Latin code charts to express variations in pronunciation for the same base character
 - This means the same character can have multiple renderings, each with different punctuation, which symbolizes 1 distinct sound per punctuated character
 - Only use extended characters with punctuation that appears on top or under base Latin characters, in other words that do not modify the glyph of the base character
 - The only minor exception is for extended characters that replace the dot on top of the 'i' and 'j' characters
-- Characters that are not pronounced are formatted with del markup
+- Characters that are not pronounced are formatted with italic markup
 - Sounds that do not appear in the spelling of the word are shown as characters that are formatted with inserted markup
-- For words that have at least two syllables the primary stress is shown with bold (strong) markup
-- For words with more than two syllables the secondary stress is shown with italic (emphasized) markup
+- The primary stress is shown with bold (strong) markup
 - The aspirated unvoiced stop is shown as a Unicode character U+00B4 acute accent (&#x00B4;) appended to the 't', 'p' or 'k' character
-- The glottal stop is shown as Unicode character U+00B7 middle dot (&#x00B7;)
+- A compound noun is shown with a Unicode character U+00B7 middle dot (&#x00B7;) in between
 
 ## Charts
 
@@ -49,11 +49,26 @@ Inglish adheres to the following principles:
 |y|why|w<i>h</i><b>&#x00FD;</b>||
 
 ### Basic consonants
-|English|Inglish|IPA|
-|:-----:|:-----:|:-:|
-|b<b>a</b>d|b<b>&#x00E0;</b>d||
-|c<b>a</b>n|c<b>&#x00E0;</b>n||
-|did|d&#x00EC;d||
-|nod|n&#x00F2;d||
-|bud|b&#x00F9;d||
-|hymn|h&#x1EF3;m<i>n</i>||
+||English|Inglish|IPA|
+|:-:|:-----:|:-----:|:-:|
+|b|bad|b<b>&#x00E0;</b>d||
+|c|can|c<b>&#x00E0;</b>n||
+|d|did|d<b>&#x00EC;</b>d||
+|far||f<b>&#x00E2;</b>r||
+|gun||g<b>&#x00F9;</b>n||
+|hot||h<b>&#x00F2;</b>t||
+|jar||j<b>&#x00E2;</b>r||
+|keep||k<b>&#x00E9;</b><i>e</i>p||
+|l||<b>&#x00;</b>||
+|m||<b>&#x00;</b>||
+|n||<b>&#x00;</b>||
+|p||<b>&#x00;</b>||
+|q||<b>&#x00;</b>||
+|r||<b>&#x00;</b>||
+|s||<b>&#x00;</b>||
+|t||<b>&#x00;</b>||
+|v||<b>&#x00;</b>||
+|w||<b>&#x00;</b>||
+|x||<b>&#x00;</b>||
+|y||<b>&#x00;</b>||
+|z||<b>&#x00;</b>||
