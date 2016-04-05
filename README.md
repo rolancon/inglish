@@ -94,6 +94,6 @@ Inglish adheres to the following principles:
 |gh|rough|r<del>o</del><b>&#x00F9;</b>&#x01F5;<del>h</del>||
 |j|raj|r<b>&#x00E3;</b>&#x0135;||
 |ph|phone|&#x1E55;<del>h</del><b>&#x00F3;</b>n<del>e</del>||
-|s|measure|m<b>&#x00E8;</b><del>e</del>&#x00B7;&#x0161;&#x016D;r<del>e</del>||
+|s|measure|m<b>&#x00E8;</b><del>a</del>&#x00B7;&#x0161;&#x016D;r<del>e</del>||
 |sh|ship|&#x015D;<del>h</del><b>&#x00EC;</b>p||
 |z|azure|<b>&#x00E0;&#x00B7;</b>&#x017E;&#x016D;r<del>e</del>||
