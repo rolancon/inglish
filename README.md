@@ -88,12 +88,12 @@ Inglish adheres to the following principles:
 #### Other fricatives
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|ch|chip|&#x0109;&#x00B7;<b>&#x00EC;</b>p||
-|ch|loch|l<b>&#x00F2;</b>&#x00B7;&#x0125;||
+|ch|chip|&#x0109;<i>h</i><b>&#x00EC;</b>p||
+|ch|loch|l<b>&#x00F2;</b><i>c</i>&#x0125;||
 |g|gel|&#x011D;&#x00B7;<b>&#x00E8;</b>l||
-|gh|rough|r<b>&#x00F9;</b>&#x00B7;&#x00;||
+|gh|rough|r<b>&#x00F9;</b><i>o</i>&#x01F5;<i>h</i>||
 |j|raj|r<b>&#x00F2;</b>&#x00B7;&#x0135;||
-|ph|phone|&#x00;&#x00B7;<b>&#x00F3;</b>n<i>e</i>||
+|ph|phone|&#x1E55;<i>h</i><b>&#x00F3;</b>n<i>e</i>||
 |s|measure|m<b>&#x00E8;</b>&#x00B7;&#x00;&#x00B7;&#x016D;r<i>e</i>||
-|sh|ship|&#x015D;&#x00B7;<b>&#x00EC;</b>p||
+|sh|ship|&#x015D;<i>h</i><b>&#x00EC;</b>p||
 |z|azure|<b>&#x00E0;&#x00B7;</b>&#x00;&#x00B7;&#x016D;r<i>e</i>||
