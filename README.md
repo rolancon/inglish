@@ -24,7 +24,7 @@ Inglish adheres to the following principles:
 - Sounds that do not appear in the spelling of the word are shown as characters that are formatted with inserted markup
 - The primary stress is shown with bold (strong) markup
 - The aspirated unvoiced stop is shown as a Unicode character U+00B4 acute accent (&#x00B4;) appended to the 't', 'p', 'k' or 'q' character
-- A compound noun is shown with a Unicode character U+00B7 middle dot (&#x00B7;) in between
+- Syllables in a word are separated with a Unicode character U+00B7 middle dot (&#x00B7;) in between
 
 ## Charts
 
@@ -38,17 +38,17 @@ Inglish adheres to the following principles:
 |i|did|d<b>&#x00EC;</b>d||
 |o|nod|n<b>&#x00F2;</b>d||
 |u|bud|b<b>&#x00F9;</b>d||
-|y|hymn|h<b>&#x1EF3;</b>m<i>n</i>||
+|y|hymn|h<b>&#x1EF3;</b>m<ins>n</ins>||
 
 #### Open
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|a|ate|<b>&#x00E1;</b>t<i>e</i>||
+|a|ate|<b>&#x00E1;</b>t<ins>e</ins>||
 |e|me|m<b>&#x00E9;</b>||
 |i|hi|h<b>&#x00ED;</b>||
 |o|no|n<b>&#x00F3;</b>||
-|u|sue|s<b>&#x00FA;</b><i>e</i>||
-|y|why|w<i>h</i><b>&#x00FD;</b>||
+|u|sue|s<b>&#x00FA;</b><ins>e</ins>||
+|y|why|w<ins>h</ins><b>&#x00FD;</b>||
 
 ### Consonants
 
@@ -67,12 +67,12 @@ Inglish adheres to the following principles:
 |m|me|m<b>&#x00E9;</b>||
 |n|no|n<b>&#x00F3;</b>||
 |p|spin|sp<b>&#x00EC;</b>n||
-|q|quiz|q&#x1E75;&#x00B7;<b>&#x00EC;</b>z||
+|q|quiz|q&#x1E75;<b>&#x00EC;</b>z||
 |r|rod|r<b>&#x00F2;</b>d||
-|s|sue|s<b>&#x00FA;</b><i>e</i>||
+|s|sue|s<b>&#x00FA;</b><ins>e</ins>||
 |t|stop|st<b>&#x00F2;</b>p||
 |v|vet|v<b>&#x00E8;</b>t||
-|w|why|w<i>h</i><b>&#x00FD;</b>||
+|w|why|w<ins>h</ins><b>&#x00FD;</b>||
 |x|six|s<b>&#x00EC;</b>x||
 |y|yes|y<b>&#x00E8;</b>s||
 |z|zip|z<b>&#x00EC;</b>p||
@@ -81,19 +81,19 @@ Inglish adheres to the following principles:
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
 |c|can|&#x010B;<b>&#x00E0;</b>n||
-|k|keep|&#x1E33;<b>&#x00E9;</b><i>e</i>p||
+|k|keep|&#x1E33;<b>&#x00E9;</b><ins>e</ins>p||
 |p|pan|&#x1E57;<b>&#x00E0;</b>n||
 |t|top|&#x1E6D;<b>&#x00F2;</b>p||
 
 #### Other fricatives
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|ch|chip|&#x0109;<i>h</i><b>&#x00EC;</b>p||
-|ch|loch|l<b>&#x00F2;</b><i>c</i>&#x0125;||
-|g|gel|&#x011D;&#x00B7;<b>&#x00E8;</b>l||
-|gh|rough|r<b>&#x00F9;</b><i>o</i>&#x01F5;<i>h</i>||
-|j|raj|r<b>&#x00F2;</b>&#x00B7;&#x0135;||
-|ph|phone|&#x1E55;<i>h</i><b>&#x00F3;</b>n<i>e</i>||
-|s|measure|m<b>&#x00E8;</b>&#x00B7;&#x00;&#x00B7;&#x016D;r<i>e</i>||
-|sh|ship|&#x015D;<i>h</i><b>&#x00EC;</b>p||
-|z|azure|<b>&#x00E0;&#x00B7;</b>&#x00;&#x00B7;&#x016D;r<i>e</i>||
+|ch|chip|&#x0109;<ins>h</ins><b>&#x00EC;</b>p||
+|ch|loch|l<b>&#x00F2;</b><ins>c</ins>&#x0125;||
+|g|gel|&#x011D;<b>&#x00E8;</b>l||
+|gh|rough|r<ins>o</ins><b>&#x00F9;</b>&#x01F5;<ins>h</ins>||
+|j|raj|r<b>&#x00F2;</b>&#x0135;||
+|ph|phone|&#x1E55;<ins>h</ins><b>&#x00F3;</b>n<ins>e</ins>||
+|s|measure|m<b>&#x00E8;</b>&#x00B7;&#x00B7;&#x016D;r<ins>e</ins>||
+|sh|ship|&#x015D;<ins>h</ins><b>&#x00EC;</b>p||
+|z|azure|<b>&#x00E0;&#x00B7;</b>&#x00;&#x016D;r<ins>e</ins>||
