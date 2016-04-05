@@ -28,7 +28,9 @@ Inglish adheres to the following principles:
 
 ## Charts
 
-### Closed vowels
+### Vowels
+
+#### Closed
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
 |a|bad|b<b>&#x00E0;</b>d||
@@ -38,7 +40,7 @@ Inglish adheres to the following principles:
 |u|bud|b<b>&#x00F9;</b>d||
 |y|hymn|h<b>&#x1EF3;</b>m<i>n</i>||
 
-### Open vowels
+#### Open
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
 |a|ate|<b>&#x00E1;</b>t<i>e</i>||
@@ -48,7 +50,9 @@ Inglish adheres to the following principles:
 |u|sue|s<b>&#x00FA;</b><i>e</i>||
 |y|why|w<i>h</i><b>&#x00FD;</b>||
 
-### Basic consonants
+### Consonants
+
+#### Basic
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
 |b|bad|b<b>&#x00E0;</b>d||
@@ -72,5 +76,10 @@ Inglish adheres to the following principles:
 |x|six|s<b>&#x00EC;</b>x||
 |y|yes|y<b>&#x00E8;</b>s||
 |z|zip|z<b>&#x00EC;</b>p||
+
+#### Aspirated voiceless stops
+||English|Inglish|IPA|
+|:-:|:-----:|:-----:|:-:|
+|c|can|&#xE464;<b>&#x00E0;</b>n||
 
 |k|keep|<ins>k</ins><b>&#x00E9;</b><i>e</i>p||
