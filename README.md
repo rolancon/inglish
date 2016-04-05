@@ -80,6 +80,7 @@ Inglish adheres to the following principles:
 #### Aspirated voiceless stops
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|c|can|&#xE464;<b>&#x00E0;</b>n||
-
-|k|keep|<ins>k</ins><b>&#x00E9;</b><i>e</i>p||
+|c|can|&#x010B;<b>&#x00E0;</b>n||
+|k|keep|&#x1E33;<b>&#x00E9;</b><i>e</i>p||
+|p|pan|&#x1E57;<b>&#x00E0;</b>n||
+|t|top|&#x1E6D;<b>&#x00F2;</b>n||
