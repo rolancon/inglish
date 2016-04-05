@@ -63,7 +63,7 @@ Inglish adheres to the following principles:
 |m|me|m<b>&#x00E9;</b>||
 |n|no|n<b>&#x00F3;</b>||
 |p|pen|<ins>p</ins><b>&#x00E8;</b>n||
-|q|quiz|q&#x006D;<b>&#x00EC;</b>z||
+|q|quiz|q&#x016D;<b>&#x00EC;</b>z||
 |r|rod|r<b>&#x00F2;</b>d||
 |s|sue|s<b>&#x00FA;</b><i>e</i>||
 |t|top|t<b>&#x00F2;</b>p||
