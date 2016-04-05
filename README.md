@@ -67,7 +67,7 @@ Inglish adheres to the following principles:
 |m|me|m<b>&#x00E9;</b>||
 |n|no|n<b>&#x00F3;</b>||
 |p|spin|sp<b>&#x00EC;</b>n||
-|q|quiz|q&#x016D;&#x1E75;<b>&#x00EC;</b>z||
+|q|quiz|q&#x1E75;&#x00B7;<b>&#x00EC;</b>z||
 |r|rod|r<b>&#x00F2;</b>d||
 |s|sue|s<b>&#x00FA;</b><i>e</i>||
 |t|stop|st<b>&#x00F2;</b>p||
@@ -88,12 +88,12 @@ Inglish adheres to the following principles:
 #### Other fricatives
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|ch|chip|&#x0109;<b>&#x00EC;</b>p||
-|ch|loch|l<b>&#x00F2;</b>&#x0125;||
-|g|gel|&#x011D;<b>&#x00E8;</b>l||
-|gh|rough|r<b>&#x00F9;</b>&#x00;||
-|j|raj|r<b>&#x00F2;</b>&#x0135;||
-|ph|phone|&#x00;<b>&#x00F3;</b>n<i>e</i>||
-|s|measure|m<b>&#x00E8;</b>&#x00;&#x016D;r<i>e</i>||
-|sh|ship|&#x015D;<b>&#x00EC;</b>p||
-|z|azure|<b>&#x00E0;</b>&#x00;&#x016D;r<i>e</i>||
+|ch|chip|&#x0109;&#x00B7;<b>&#x00EC;</b>p||
+|ch|loch|l<b>&#x00F2;</b>&#x00B7;&#x0125;||
+|g|gel|&#x011D;&#x00B7;<b>&#x00E8;</b>l||
+|gh|rough|r<b>&#x00F9;</b>&#x00B7;&#x00;||
+|j|raj|r<b>&#x00F2;</b>&#x00B7;&#x0135;||
+|ph|phone|&#x00;&#x00B7;<b>&#x00F3;</b>n<i>e</i>||
+|s|measure|m<b>&#x00E8;</b>&#x00B7;&#x00;&#x00B7;&#x016D;r<i>e</i>||
+|sh|ship|&#x015D;&#x00B7;<b>&#x00EC;</b>p||
+|z|azure|<b>&#x00E0;&#x00B7;</b>&#x00;&#x00B7;&#x016D;r<i>e</i>||
