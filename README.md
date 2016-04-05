@@ -67,7 +67,7 @@ Inglish adheres to the following principles:
 |m|me|m<b>&#x00E9;</b>||
 |n|no|n<b>&#x00F3;</b>||
 |p|spin|sp<b>&#x00EC;</b>n||
-|q|quiz|q&#x016D;&#x00B7;<b>&#x00EC;</b>z||
+|q|quiz|q&#x016D;&#x1E75;<b>&#x00EC;</b>z||
 |r|rod|r<b>&#x00F2;</b>d||
 |s|sue|s<b>&#x00FA;</b><i>e</i>||
 |t|stop|st<b>&#x00F2;</b>p||
@@ -83,4 +83,17 @@ Inglish adheres to the following principles:
 |c|can|&#x010B;<b>&#x00E0;</b>n||
 |k|keep|&#x1E33;<b>&#x00E9;</b><i>e</i>p||
 |p|pan|&#x1E57;<b>&#x00E0;</b>n||
-|t|top|&#x1E6D;<b>&#x00F2;</b>n||
+|t|top|&#x1E6D;<b>&#x00F2;</b>p||
+
+#### Other fricatives
+||English|Inglish|IPA|
+|:-:|:-----:|:-----:|:-:|
+|ch|chip|&#x0109;<b>&#x00EC;</b>p||
+|ch|loch|l<b>&#x00F2;</b>&#x0125;||
+|g|gel|&#x011D;<b>&#x00E8;</b>l||
+|gh|rough|r<b>&#x00F9;</b>&#x00;||
+|j|raj|r<b>&#x00F2;</b>&#x0135;||
+|ph|phone|&#x00;<b>&#x00F3;</b>n<i>e</i>||
+|s|measure|m<b>&#x00E8;</b>&#x00;&#x016D;r<i>e</i>||
+|sh|ship|&#x015D;<b>&#x00EC;</b>p||
+|z|azure|<b>&#x00E0;</b>&#x00;&#x016D;r<i>e</i>||
