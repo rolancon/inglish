@@ -52,7 +52,7 @@ Inglish adheres to the following principles:
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
 |b|bad|b<b>&#x00E0;</b>d||
-|c|can|c<b>&#x00E0;</b>n||
+|c|wick|w<b>&#x00EC;</b>c<i>k</i>||
 |d|did|d<b>&#x00EC;</b>d||
 |f|far|f<b>&#x00E2;</b>r||
 |g|gun|g<b>&#x00F9;</b>n||
@@ -66,7 +66,7 @@ Inglish adheres to the following principles:
 |q|quiz|q&#x016D;&#x00B7;<b>&#x00EC;</b>z||
 |r|rod|r<b>&#x00F2;</b>d||
 |s|sue|s<b>&#x00FA;</b><i>e</i>||
-|st|top|st<b>&#x00F2;</b>p||
+|t|stop|st<b>&#x00F2;</b>p||
 |v|vet|v<b>&#x00E8;</b>t||
 |w|why|w<i>h</i><b>&#x00FD;</b>||
 |x|six|s<b>&#x00EC;</b>x||
