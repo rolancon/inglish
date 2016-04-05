@@ -62,11 +62,11 @@ Inglish adheres to the following principles:
 |l|lid|l<b>&#x00EC;</b>d||
 |m|me|m<b>&#x00E9;</b>||
 |n|no|n<b>&#x00F3;</b>||
-|p||<b>&#x00B4;&#x00;</b>||
-|q||<b>&#x00B4;&#x00;</b>||
-|r||<b>&#x00;</b>||
-|s||<b>&#x00;</b>||
-|t||<b>&#x00;</b>||
+|p|pen|<ins>p</ins><b>&#x00E8;</b>n||
+|q|quiz|q<b>&#x00EC;</b><i>i</i>z||
+|r|rod|r<b>&#x00F2;</b>d||
+|s|sue|s<b>&#x00FA;</b><i>e</i>||
+|t|top|t<b>&#x00F2;</b>p||
 |v||<b>&#x00;</b>||
 |w||<b>&#x00;</b>||
 |x||<b>&#x00;</b>||
