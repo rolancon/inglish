@@ -52,7 +52,7 @@ Inglish adheres to the following principles:
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
 |b|bad|b<b>&#x00E0;</b>d||
-|c|wick|w<b>&#x00EC;</b>c<i>k</i>||
+|c|arc|<b>&#x00E2;</b>rc||
 |d|did|d<b>&#x00EC;</b>d||
 |f|far|f<b>&#x00E2;</b>r||
 |g|gun|g<b>&#x00F9;</b>n||
