@@ -38,7 +38,7 @@ Inglish adheres to the following principles:
 |i|did|d<b>&#x00EC;</b>d||
 |o|nod|n<b>&#x00F2;</b>d||
 |u|bud|b<b>&#x00F9;</b>d||
-|y|hymn|h<b>&#x1EF3;</b>m<sup><sub>n</sub></sup>||
+|y|hymn|h<b>&#x1EF3;</b>m<sub><sup>n</sup></sub>||
 
 #### Open
 ||English|Inglish|IPA|
