@@ -38,17 +38,17 @@ Inglish adheres to the following principles:
 |i|did|d<b>&#x00EC;</b>d||
 |o|nod|n<b>&#x00F2;</b>d||
 |u|bud|b<b>&#x00F9;</b>d||
-|y|hymn|h<b>&#x1EF3;</b>m<del>n</del>||
+|y|hymn|h<b>&#x1EF3;</b>m<sup><sub>n</sub></sup>||
 
 #### Open
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|a|ate|<b>&#x00E1;</b>t<del>e</del>||
+|a|ate|<b>&#x00E1;</b>t<del>e</sub></sup>||
 |e|me|m<b>&#x00E9;</b>||
 |i|hi|h<b>&#x00ED;</b>||
 |o|no|n<b>&#x00F3;</b>||
-|u|sue|s<b>&#x00FA;</b><del>e</del>||
-|y|why|w<del>h</del><b>&#x00FD;</b>||
+|u|sue|s<b>&#x00FA;</b><del>e</sub></sup>||
+|y|why|w<del>h</sub></sup><b>&#x00FD;</b>||
 
 ### Consonants
 
@@ -69,10 +69,10 @@ Inglish adheres to the following principles:
 |p|spin|sp<b>&#x00EC;</b>n||
 |q|quiz|q&#x1E75;<b>&#x00EC;</b>z||
 |r|rod|r<b>&#x00F2;</b>d||
-|s|sue|s<b>&#x00FA;</b><del>e</del>||
+|s|sue|s<b>&#x00FA;</b><del>e</sub></sup>||
 |t|stop|st<b>&#x00F2;</b>p||
 |v|vet|v<b>&#x00E8;</b>t||
-|w|why|w<del>h</del><b>&#x00FD;</b>||
+|w|why|w<del>h</sub></sup><b>&#x00FD;</b>||
 |x|six|s<b>&#x00EC;</b>x||
 |y|yes|y<b>&#x00E8;</b>s||
 |z|zip|z<b>&#x00EC;</b>p||
@@ -81,19 +81,19 @@ Inglish adheres to the following principles:
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
 |c|can|&#x010B;<b>&#x00E0;</b>n||
-|k|keep|&#x1E33;<b>&#x00E9;</b><del>e</del>p||
+|k|keep|&#x1E33;<b>&#x00E9;</b><del>e</sub></sup>p||
 |p|pan|&#x1E57;<b>&#x00E0;</b>n||
 |t|top|&#x1E6D;<b>&#x00F2;</b>p||
 
 #### Other fricatives
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|ch|chip|&#x0109;<del>h</del><b>&#x00EC;</b>p||
-|ch|loch|l<b>&#x00F2;</b><del>c</del>&#x0125;||
+|ch|chip|&#x0109;<del>h</sub></sup><b>&#x00EC;</b>p||
+|ch|loch|l<b>&#x00F2;</b><del>c</sub></sup>&#x0125;||
 |g|gel|&#x011D;<b>&#x00E8;</b>l||
-|gh|rough|r<del>o</del><b>&#x00F9;</b>&#x01F5;<del>h</del>||
+|gh|rough|r<del>o</sub></sup><b>&#x00F9;</b>&#x01F5;<del>h</sub></sup>||
 |j|raj|r<b>&#x00E3;</b>&#x0135;||
-|ph|phone|&#x1E55;<del>h</del><b>&#x00F3;</b>n<del>e</del>||
-|s|measure|m<b>&#x00E8;</b><del>a</del>&#x00B7;&#x0161;&#x016D;r<del>e</del>||
-|sh|ship|&#x015D;<del>h</del><b>&#x00EC;</b>p||
-|z|azure|<b>&#x00E0;&#x00B7;</b>&#x017E;&#x016D;r<del>e</del>||
+|ph|phone|&#x1E55;<del>h</sub></sup><b>&#x00F3;</b>n<del>e</sub></sup>||
+|s|measure|m<b>&#x00E8;</b><del>a</sub></sup>&#x00B7;&#x0161;&#x016D;r<del>e</sub></sup>||
+|sh|ship|&#x015D;<del>h</sub></sup><b>&#x00EC;</b>p||
+|z|azure|<b>&#x00E0;&#x00B7;</b>&#x017E;&#x016D;r<del>e</sub></sup>||
