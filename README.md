@@ -67,8 +67,8 @@ Inglish adheres to the following principles:
 |r|rod|r<b>&#x00F2;</b>d||
 |s|sue|s<b>&#x00FA;</b><i>e</i>||
 |st|top|st<b>&#x00F2;</b>p||
-|v||v<b>&#x00E8;</b>t||
-|w||w<i>h</i><b>&#x00FD;</b>||
+|v|vet|v<b>&#x00E8;</b>t||
+|w|why|w<i>h</i><b>&#x00FD;</b>||
 |x|six|s<b>&#x00EC;</b>x||
 |y|yes|y<b>&#x00E8;</b>s||
 |z|zip|z<b>&#x00EC;</b>p||
