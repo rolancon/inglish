@@ -67,7 +67,7 @@ Inglish adheres to the following principles:
 |m|me|m<ins>&#x00E9;</ins>||
 |n|no|n<ins>&#x00F3;</ins>||
 |p|spin|sp<ins>&#x00EC;</ins>n||
-|q|quiz|q&#x1E75;<ins>&#x00EC;</ins>z||
+|q|quiz|q&#x0168;<ins>&#x00EC;</ins>z||
 |r|rod|r<ins>&#x00F2;</ins>d||
 |s|sue|s<ins>&#x00FA;</ins><b>e</b>||
 |t|stop|st<ins>&#x00F2;</ins>p||
@@ -96,4 +96,4 @@ Inglish adheres to the following principles:
 |ph|phone|&#x1E55;<b>h</b><ins>&#x00F3;</ins>n<b>e</b>||
 |s|measure|m<ins>&#x00E8;</ins><b>a</b>&#x00B7;&#x0161;&#x016D;r<b>e</b>||
 |sh|ship|&#x015D;<b>h</b><ins>&#x00EC;</ins>p||
-|z|azure|<ins>&#x00E0;&#x00B7;</ins>&#x017E;&#x016D;r<b>e</b>||
+|z|azure|<ins>&#x00E0;</ins>&#x00B7;&#x017E;&#x016D;r<b>e</b>||
