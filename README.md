@@ -38,17 +38,17 @@ Inglish adheres to the following principles:
 |i|did|d<ins>&#x00EC;</ins>d||
 |o|nod|n<ins>&#x00F2;</ins>d||
 |u|bud|b<ins>&#x00F9;</ins>d||
-|y|hymn|h<ins>&#x1EF3;</ins>m<b>n</b>||
+|y|hymn|h<ins>&#x1EF3;</ins>m<sub><sup>n</sup></sub>||
 
 #### Open
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|a|ate|<ins>&#x00E1;</ins>t<b>e</b>||
+|a|ate|<ins>&#x00E1;</ins>t<sub><sup>e</sup></sub>||
 |e|me|m<ins>&#x00E9;</ins>||
 |i|hi|h<ins>&#x00ED;</ins>||
 |o|no|n<ins>&#x00F3;</ins>||
-|u|sue|s<ins>&#x00FA;</ins><suins><b>e</b>||
-|y|why|w<b>h</b></suins><ins>&#x00FD;</ins>||
+|u|sue|s<ins>&#x00FA;</ins><suins><sub><sup>e</sup></sub>||
+|y|why|w<sub><sup>h</sup></sub></suins><ins>&#x00FD;</ins>||
 
 ### Consonants
 
@@ -67,12 +67,12 @@ Inglish adheres to the following principles:
 |m|me|m<ins>&#x00E9;</ins>||
 |n|no|n<ins>&#x00F3;</ins>||
 |p|spin|sp<ins>&#x00EC;</ins>n||
-|q|quiz|q&#x0168;<ins>&#x00EC;</ins>z||
+|q|quiz|q&#x016B;<ins>&#x00EC;</ins>z||
 |r|rod|r<ins>&#x00F2;</ins>d||
-|s|sue|s<ins>&#x00FA;</ins><b>e</b>||
+|s|sue|s<ins>&#x00FA;</ins><sub><sup>e</sup></sub>||
 |t|stop|st<ins>&#x00F2;</ins>p||
 |v|vet|v<ins>&#x00E8;</ins>t||
-|w|why|w<suins><b>h</b><ins>&#x00FD;</ins>||
+|w|why|w<suins><sub><sup>h</sup></sub><ins>&#x00FD;</ins>||
 |x|six|s<ins>&#x00EC;</ins>x||
 |y|yes|y<ins>&#x00E8;</ins>s||
 |z|zip|z<ins>&#x00EC;</ins>p||
@@ -81,19 +81,19 @@ Inglish adheres to the following principles:
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
 |c|can|&#x010B;<ins>&#x00E0;</ins>n||
-|k|keep|&#x1E33;<ins>&#x00E9;</ins><b>e</b>p||
+|k|keep|&#x1E33;<ins>&#x00E9;</ins><sub><sup>e</sup></sub>p||
 |p|pan|&#x1E57;<ins>&#x00E0;</ins>n||
 |t|top|&#x1E6D;<ins>&#x00F2;</ins>p||
 
 #### Other fricatives
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|ch|chip|&#x0109;<b>h</b></suins><ins>&#x00EC;</ins>p||
-|ch|loch|l<ins>&#x00F2;</ins><b>c</b></suins>&#x0125;||
+|ch|chip|&#x0109;<sub><sup>h</sup></sub></suins><ins>&#x00EC;</ins>p||
+|ch|loch|l<ins>&#x00F2;</ins><sub><sup>c</sup></sub></suins>&#x0125;||
 |g|gel|&#x011D;<ins>&#x00E8;</ins>l||
-|gh|rough|r<b>o</b><ins>&#x00F9;</ins>&#x01F5;<b>h</b>||
+|gh|rough|r<sub><sup>o</sup></sub><ins>&#x00F9;</ins>&#x01F5;<sub><sup>h</sup></sub>||
 |j|raj|r<ins>&#x00E3;</ins>&#x0135;||
-|ph|phone|&#x1E55;<b>h</b><ins>&#x00F3;</ins>n<b>e</b>||
-|s|measure|m<ins>&#x00E8;</ins><b>a</b>&#x00B7;&#x0161;&#x016D;r<b>e</b>||
-|sh|ship|&#x015D;<b>h</b><ins>&#x00EC;</ins>p||
-|z|azure|<ins>&#x00E0;</ins>&#x00B7;&#x017E;&#x016D;r<b>e</b>||
+|ph|phone|&#x1E55;<sub><sup>h</sup></sub><ins>&#x00F3;</ins>n<sub><sup>e</sup></sub>||
+|s|measure|m<ins>&#x00E8;</ins><sub><sup>a</sup></sub>&#x00B7;&#x0161;&#x016D;r<sub><sup>e</sup></sub>||
+|sh|ship|&#x015D;<sub><sup>h</sup></sub><ins>&#x00EC;</ins>p||
+|z|azure|<ins>&#x00E0;</ins>&#x00B7;&#x017E;&#x016D;r<sub><sup>e</sup></sub>||
