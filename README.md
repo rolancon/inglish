@@ -47,8 +47,8 @@ Inglish adheres to the following principles:
 |e|me|m<ins>&#x00E9;</ins>||
 |i|hi|h<ins>&#x00ED;</ins>||
 |o|no|n<ins>&#x00F3;</ins>||
-|u|sue|s<ins>&#x00FA;</ins><suins><sub><sup>e</sup></sub>||
-|y|why|w<sub><sup>h</sup></sub></suins><ins>&#x00FD;</ins>||
+|u|sue|s<ins>&#x00FA;</ins><sub><sup>e</sup></sub>||
+|y|why|w<sub><sup>h</sup></sub><ins>&#x00FD;</ins>||
 
 ### Consonants
 
@@ -72,7 +72,7 @@ Inglish adheres to the following principles:
 |s|sue|s<ins>&#x00FA;</ins><sub><sup>e</sup></sub>||
 |t|stop|st<ins>&#x00F2;</ins>p||
 |v|vet|v<ins>&#x00E8;</ins>t||
-|w|why|w<suins><sub><sup>h</sup></sub><ins>&#x00FD;</ins>||
+|w|why|w<sub><sup>h</sup></sub><ins>&#x00FD;</ins>||
 |x|six|s<ins>&#x00EC;</ins>x||
 |y|yes|y<ins>&#x00E8;</ins>s||
 |z|zip|z<ins>&#x00EC;</ins>p||
@@ -88,8 +88,8 @@ Inglish adheres to the following principles:
 #### Other fricatives
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|ch|chip|&#x0109;<sub><sup>h</sup></sub></suins><ins>&#x00EC;</ins>p||
-|ch|loch|l<ins>&#x00F2;</ins><sub><sup>c</sup></sub></suins>&#x0125;||
+|ch|chip|&#x0109;<sub><sup>h</sup></sub><ins>&#x00EC;</ins>p||
+|ch|loch|l<ins>&#x00F2;</ins><sub><sup>c</sup></sub>&#x0125;||
 |g|gel|&#x011D;<ins>&#x00E8;</ins>l||
 |gh|rough|r<sub><sup>o</sup></sub><ins>&#x00F9;</ins>&#x01F5;<sub><sup>h</sup></sub>||
 |j|raj|r<ins>&#x00E3;</ins>&#x0135;||
