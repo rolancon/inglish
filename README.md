@@ -33,67 +33,99 @@ Inglish adheres to the following principles:
 #### Closed
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|a|bad|b<ins>&#x00E0;</ins>d||
-|e|bed|b<ins>&#x00E8;</ins>d||
-|i|did|d<ins>&#x00EC;</ins>d||
-|o|nod|n<ins>&#x00F2;</ins>d||
-|u|bud|b<ins>&#x00F9;</ins>d||
-|y|hymn|h<ins>&#x1EF3;</ins>m<sub><sup>n</sup></sub>||
+|a|bad|b&#x00E0;d||
+|e|bed|b&#x00E8;d||
+|i|did|d&#x00EC;d||
+|o|nod|n&#x00F2;d||
+|u|bud|b&#x00F9;d||
+|y|hymn|h&#x1EF3;m<ins>n</ins>||
 
 #### Open
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|a|ate|<ins>&#x00E1;</ins>t<sub><sup>e</sup></sub>||
-|e|me|m<ins>&#x00E9;</ins>||
-|i|hi|h<ins>&#x00ED;</ins>||
-|o|no|n<ins>&#x00F3;</ins>||
-|u|sue|s<ins>&#x00FA;</ins><sub><sup>e</sup></sub>||
-|y|why|w<sub><sup>h</sup></sub><ins>&#x00FD;</ins>||
+|a|ate|&#x00E1;t<ins>e</ins>||
+|e|me|m&#x00E9;||
+|i|hi|h&#x00ED;||
+|o|no|n&#x00F3;||
+|u|sue|s&#x00FA;<ins>e</ins>||
+|y|why|w<ins>h</ins>&#x00FD;||
+
+#### Combinations with a
+||English|Inglish|IPA|
+|:-:|:-----:|:-----:|:-:|
+|ae|aeon|&#x00;e&#x00B7;on||
+|ai|aim|&#x00;im||
+|ao|chaos|ch&#x00;os||
+|au|haul|h&#x00;l||
+|aw|law|l&#x00;w||
+|ay|bay|b&#x00;y||
+
+#### Combinations with e
+||English|Inglish|IPA|
+|:-:|:-----:|:-----:|:-:|
+|ea||&#x00;||
+|ee||&#x00;||
+|ei||&#x00;||
+|eo||&#x00;||
+|eu||&#x00;||
+|ew||&#x00;||
+|ey||&#x00;||
+
+#### Combinations with o
+||English|Inglish|IPA|
+|:-:|:-----:|:-----:|:-:|
+|oa||&#x00;||
+|oe||&#x00;||
+|oi||&#x00;||
+|oo||&#x00;||
+|ou||&#x00;||
+|ow||&#x00;||
+|oy||&#x00;||
 
 ### Consonants
 
 #### Basic
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|b|bad|b<ins>&#x00E0;</ins>d||
-|c|arc|<ins>&#x00E2;</ins>rc||
-|d|did|d<ins>&#x00EC;</ins>d||
-|f|far|f<ins>&#x00E2;</ins>r||
-|g|gun|g<ins>&#x00F9;</ins>n||
-|h|hi|h<ins>&#x00ED;</ins>||
-|j|jar|j<ins>&#x00E2;</ins>r||
-|k|skin|sk<ins>&#x00EC;</ins>n||
-|l|lid|l<ins>&#x00EC;</ins>d||
-|m|me|m<ins>&#x00E9;</ins>||
-|n|no|n<ins>&#x00F3;</ins>||
-|p|spin|sp<ins>&#x00EC;</ins>n||
-|q|quiz|q&#x016B;<ins>&#x00EC;</ins>z||
-|r|rod|r<ins>&#x00F2;</ins>d||
-|s|sue|s<ins>&#x00FA;</ins><sub><sup>e</sup></sub>||
-|t|stop|st<ins>&#x00F2;</ins>p||
-|v|vet|v<ins>&#x00E8;</ins>t||
-|w|why|w<sub><sup>h</sup></sub><ins>&#x00FD;</ins>||
-|x|six|s<ins>&#x00EC;</ins>x||
-|y|yes|y<ins>&#x00E8;</ins>s||
-|z|zip|z<ins>&#x00EC;</ins>p||
+|b|bad|b&#x00E0;d||
+|c|arc|&#x00E2;rc||
+|d|did|d&#x00EC;d||
+|f|far|f&#x00E2;r||
+|g|gun|g&#x00F9;n||
+|h|hi|h&#x00ED;||
+|j|jar|j&#x00E2;r||
+|k|skin|sk&#x00EC;n||
+|l|lid|l&#x00EC;d||
+|m|me|m&#x00E9;||
+|n|no|n&#x00F3;||
+|p|spin|sp&#x00EC;n||
+|q|quiz|q&#x016B;&#x00EC;z||
+|r|rod|r&#x00F2;d||
+|s|sue|s&#x00FA;<ins>e</ins>||
+|t|stop|st&#x00F2;p||
+|v|vet|v&#x00E8;t||
+|w|why|w<ins>h</ins>&#x00FD;||
+|x|six|s&#x00EC;x||
+|y|yes|y&#x00E8;s||
+|z|zip|z&#x00EC;p||
 
 #### Aspirated voiceless stops
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|c|can|&#x010B;<ins>&#x00E0;</ins>n||
-|k|keep|&#x1E33;<ins>&#x00E9;</ins><sub><sup>e</sup></sub>p||
-|p|pan|&#x1E57;<ins>&#x00E0;</ins>n||
-|t|top|&#x1E6D;<ins>&#x00F2;</ins>p||
+|c|can|&#x010B;&#x00E0;n||
+|k|keep|&#x1E33;&#x00E9;<ins>e</ins>p||
+|p|pan|&#x1E57;&#x00E0;n||
+|t|top|&#x1E6D;&#x00F2;p||
 
 #### Other fricatives
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|ch|chip|&#x0109;<sub><sup>h</sup></sub><ins>&#x00EC;</ins>p||
-|ch|loch|l<ins>&#x00F2;</ins><sub><sup>c</sup></sub>&#x0125;||
-|g|gel|&#x011D;<ins>&#x00E8;</ins>l||
-|gh|rough|r<sub><sup>o</sup></sub><ins>&#x00F9;</ins>&#x01F5;<sub><sup>h</sup></sub>||
-|j|raj|r<ins>&#x00E3;</ins>&#x0135;||
-|ph|phone|&#x1E55;<sub><sup>h</sup></sub><ins>&#x00F3;</ins>n<sub><sup>e</sup></sub>||
-|s|measure|m<ins><b>&#x00E8;</b></ins><sub><sup>a</sup></sub>&#x00B7;&#x0161;<ins>&#x016D;</ins>r<sub><sup>e</sup></sub>||
-|sh|ship|&#x015D;<sub><sup>h</sup></sub><ins>&#x00EC;</ins>p||
-|z|azure|<ins><b>&#x00E0;</b></ins>&#x00B7;&#x017E;<ins>&#x016D;</ins>r<sub><sup>e</sup></sub>||
+|ch|chip|&#x0109;<ins>h</ins>&#x00EC;p||
+|ch|loch|l&#x00F2;<ins>c</ins>&#x0125;||
+|g|gel|&#x011D;&#x00E8;l||
+|gh|rough|r<ins>o</ins>&#x00F9;&#x01F5;<ins>h</ins>||
+|j|raj|r&#x00E3;&#x0135;||
+|ph|phone|&#x1E55;<ins>h</ins>&#x00F3;n<ins>e</ins>||
+|s|measure|m<b>&#x00E8;</b><ins>a</ins>&#x00B7;&#x0161;&#x016D;r<ins>e</ins>||
+|sh|ship|&#x015D;<ins>h</ins>&#x00EC;p||
+|z|azure|<b>&#x00E0;</b>&#x00B7;&#x017E;&#x016D;r<ins>e</ins>||
