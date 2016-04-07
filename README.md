@@ -232,10 +232,15 @@ Inglish adheres to the following principles:
 
 
 hello there
+
 how are you
+
 i am good
 
-hè·l<b>ó</b> ẗ<ins>h</ins><b>è</b>re
+
+hè·l<b>ó</b> ẗ<i>h</i><b>è</b>re
+
 h<b>ò</b>w <b>à</b>re y<b>ő</b>u
+
 <b>í</b> <b>à</b>m g<b>ǒ</b>od
 
