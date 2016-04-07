@@ -235,7 +235,7 @@ hello there
 how are you
 i am good
 
-hè·l<b>ó</b> ẗ<ins>h</ins><b>è</b>r<ins>e</ins>
-h<b>ò</b>w <b>à</b>r y<b>ő</b><ins>u</ins>
-<b>í</b> <b>à</b>m g<b>ǒ</b><ins>o</ins>d
+hè·l<b>ó</b> ẗh<b>è</b>re
+h<b>ò</b>w <b>à</b>r y<b>ő</b>u
+<b>í</b> <b>à</b>m g<b>ǒ</b>od
 
