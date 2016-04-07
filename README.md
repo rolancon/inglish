@@ -132,10 +132,110 @@ Inglish adheres to the following principles:
 
 ### Example
 
+à
+á
+â
+ã
+ä
+å
+
+ā
+ă
+ą
+
+è
+é
+ê
+ẽ
+ë
+ė
+
+ē
+ĕ
+ę
+
+ì
+í
+î
+ĩ
+ï
+į
+
+ī
+ĭ
+
+ò
+ó
+ô
+õ
+ö
+ŏ
+ő
+ǒ
+
+ō
+ǫ
+
+ù
+ú
+û
+ũ
+ü
+ų
+
+ū
+ŭ
+
+ỳ
+ý
+ŷ
+ỹ
+ÿ
+
+===
+
+ĉ
+ċ
+ç
+
+č
+
+ǵ
+ĝ
+ġ
+
+ĥ
+
+ĵ
+
+ḳ
+
+ļ
+
+ň
+
+ṕ
+
+ŝ
+ş
+š
+
+ṫ
+ẗ
+ṭ
+ţ
+
+ẋ
+ẍ
+
+ž
+
+
 hello there
 how are you
 i am good
 
-hè·l<b>ó</b> th<b>è</b>re
-h<b>ò</b>w <b>à</b>r y<b>ő</b>u
-<b>í</b> <b>à</b>m g<b>ǒ</b>od
+hè·l<b>ó</b> ẗ<ins>h</ins><b>è</b>r<ins>e</ins>
+h<b>ò</b>w <b>à</b>r y<b>ő</b><ins>u</ins>
+<b>í</b> <b>à</b>m g<b>ǒ</b><ins>o</ins>d
+
