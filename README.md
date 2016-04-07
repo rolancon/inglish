@@ -129,3 +129,13 @@ Inglish adheres to the following principles:
 |s|measure|m<b>&#x00E8;</b><ins>a</ins>&#x00B7;&#x0161;&#x016D;r<ins>e</ins>||
 |sh|ship|&#x015D;<ins>h</ins>&#x00EC;p||
 |z|azure|<b>&#x00E0;</b>&#x00B7;&#x017E;&#x016D;r<ins>e</ins>||
+
+### Example
+
+hello there
+how are you
+i am good
+
+hè·l<b>ó</b> th<b>è</b>rē
+h<b>ò</b>w <b>à</b>r y<b>ő</b>ū
+<b>í</b> <b>à</b>m g<b>ǒ</b>ōd
