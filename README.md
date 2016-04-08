@@ -145,10 +145,7 @@ Inglish adheres to the following principles:
 ẽ
 ë
 ė
-
-ē
 ĕ
-ę
 
 ì
 í
@@ -156,8 +153,6 @@ Inglish adheres to the following principles:
 ĩ
 ï
 į
-
-ī
 ĭ
 
 ò
@@ -165,10 +160,11 @@ Inglish adheres to the following principles:
 ô
 õ
 ö
-ŏ
 ő
 ō
 ǒ
+
+ŏ
 
 ù
 ú
