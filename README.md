@@ -222,8 +222,8 @@ how are you
 i am good
 
 
-hè<b>l</b>·l<ins>ó</ins> ẗ<b>h</b><ins>è</ins>r<b>e</b>
+hè<b>l</b>·l<ins>ó</ins> ẗ<b>h</b>èr<b>e</b>
 
-h<ins>ǒ</ins>w <ins>â</ins>r<b>e</b> y<ins>ő</ins><b>u</b>
+hǒw âr<b>e</b> yő<b>u</b>
 
-<ins>í</ins> <ins>à</ins>m g<ins>ō</ins><b>o</b>d
+í àm gō<b>o</b>d
