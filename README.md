@@ -227,7 +227,7 @@ how are you
 i am good
 
 
-hè·l<b>ó</b> ẗ<i>h</i><b>è</b>re
+hè<i>l</i>·l<b>ó</b> ẗ<i>h</i><b>è</b>re
 
 h<b>ò</b>w <b>à</b>re y<b>ő</b>u
 
