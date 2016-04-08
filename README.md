@@ -197,12 +197,10 @@ Inglish adheres to the following principles:
 ĉ
 ċ
 ç
-
 č
 
 ǵ
 ĝ
-ġ
 
 ĥ
 
@@ -215,6 +213,7 @@ Inglish adheres to the following principles:
 ň
 
 ṕ
+ṗ
 
 ŝ
 ş
