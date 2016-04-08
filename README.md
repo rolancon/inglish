@@ -237,4 +237,4 @@ Now the whole world had one language and a common speech. As people moved eastwa
 
 ẗ<b>h</b>e t<ins>ǒ</ins>·wẽr of Babel
 
-nǒw ẗ<b>h</b>e <b>w</b>hóļ<b>e</b> wörļd hàd <i>w</i>ǒn<b>e</b> l<ins>à</ins>ň·gųȁg<b>e</b> ànd ã ċ<ins>ò</ins><b>m</b>·mõn spé<b>e</b>ĉ<b>h</b>;
+nǒw ẗ<b>h</b>e <b>w</b>hóļ<b>e</b> wörļd hàd <i>w</i>ŏn<b>e</b> l<ins>à</ins>ň·gųȁg<b>e</b> ànd ã ċ<ins>ò</ins><b>m</b>·mõn spé<b>e</b>ĉ<b>h</b>;
