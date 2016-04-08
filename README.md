@@ -168,6 +168,7 @@ Inglish adheres to the following principles:
 ŏ
 ő
 ō
+ǒ
 
 ù
 ú
@@ -181,8 +182,6 @@ Inglish adheres to the following principles:
 ŷ
 ỹ
 ÿ
-
-===
 
 ĉ
 ċ
@@ -229,6 +228,6 @@ i am good
 
 hè<i>l</i>·l<b>ó</b> ẗ<i>h</i><b>è</b>re
 
-h<b>ò</b>w <b>à</b>re y<b>ő</b>u
+h<b>ǒ</b>w <b>à</b>re y<b>ő</b>u
 
 <b>í</b> <b>à</b>m g<b>ō</b>od
