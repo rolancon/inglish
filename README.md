@@ -227,3 +227,13 @@ hè<b>l</b>·l<ins>ó</ins> ẗ<b>h</b>èr<b>e</b>
 hǒw âr<b>e</b> yő<b>u</b>
 
 í àm gō<b>o</b>d
+
+===
+
+The Tower of Babel
+
+Now the whole world had one language and a common speech. As people moved eastward, they found a plain in Shinar and settled there.
+
+ẗ<b>h</b>e t<ins>ǒ</ins>·wẽr of Babel
+
+nǒw ẗ<b>h</b>e <b>w</b>hóļ<b>e</b> wörļd hàd <i>w</i>ǒn<b>e</b> language ànd a common speech;
