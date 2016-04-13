@@ -138,7 +138,6 @@ Inglish adheres to the following principles:
 ã
 ä
 ă
-
 ā
 
 è
@@ -232,9 +231,9 @@ i am good
 
 hè<b>l</b>·l<ins>ó</ins> ẗ<b>h</b>èr<b>e</b>
 
-hǒw âr<b>e</b> yő<b>u</b>
+hōw âr<b>e</b> yő<b>u</b>
 
-í àm gō<b>o</b>d
+í àm gȍ<b>o</b>d
 
 ===
 
@@ -242,6 +241,6 @@ The Tower of Babel
 
 Now the whole world had one language and a common speech. As people moved eastward, they found a plain in Shinar and settled there.
 
-ẗ<b>h</b>ĕ t<ins>ǒ</ins>·wĕr ǒḟ Babel
+ẗ<b>h</b>ĕ t<ins>ō</ins>·wĕr òḟ Babel
 
-nǒw ẗ<b>h</b>ĕ <b>w</b>hóḷ<b>e</b> wörḷd hàd <i>w</i>ŏn<b>e</b> l<ins>à</ins>ň·gŭāĝ<b>e</b> ànd ã ċ<ins>ò</ins><b>m</b>·mõn spé<b>e</b>ĉ<b>h</b>; àş ṗ<ins>é</ins><b>o</b>·p<i>ĕ</i>l<b>e</b> mőv<b>e</b>d <ins>é</ins><b>a</b>st·wãrd, ẗ<b>h</b>êy fǒųnd ã plá<b>i</b>n ìn Shumer ànd s<ins>è</ins><b>t</b>·ƫ<i>ĕ</i>l<b>e</b>d ẗ<b>h</b>èr<b>e</b>
+nōw ẗ<b>h</b>ĕ <b>w</b>hóḷ<b>e</b> wörḷd hàd <i>w</i>ŏn<b>e</b> l<ins>à</ins>ň·gŭãĝ<b>e</b> ànd ă ċ<ins>ò</ins><b>m</b>·mŏn spé<b>e</b>ĉ<b>h</b>; àş ṗ<ins>é</ins><b>o</b>·p<i>ĕ</i>l<b>e</b> mőv<b>e</b>d <ins>é</ins><b>a</b>st·wãrd, ẗ<b>h</b>êy fǒųnd ã plá<b>i</b>n ìn Shumer ànd s<ins>è</ins><b>t</b>·ƫ<i>ĕ</i>l<b>e</b>d ẗ<b>h</b>èr<b>e</b>
