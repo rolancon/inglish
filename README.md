@@ -101,7 +101,7 @@ Inglish adheres to the following principles:
 |m|me|m&#x00E9;||
 |n|no|n&#x00F3;||
 |p|spin|sp&#x00EC;n||
-|q|quiz|q&#x016B;&#x00EC;z||
+|q|quiz|q&#x0169;&#x00EC;z||
 |r|rod|r&#x00F2;d||
 |s|sue|s&#x00FA;<b>e</b>||
 |t|stop|st&#x00F2;p||
@@ -126,7 +126,7 @@ Inglish adheres to the following principles:
 |ch|loch|l&#x00F2;<b>c</b>&#x0125;||
 |g|gel|&#x011D;&#x00E8;l||
 |gh|rough|r<b>o</b>&#x00F9;&#x01F5;<b>h</b>||
-|j|raj|r&#x00E3;&#x0135;||
+|j|raj|r&#x00E2;&#x0135;||
 |ph|phone|&#x1E55;<b>h</b>&#x00F3;n<b>e</b>||
 |s|measure|m<ins>&#x00E8;</ins><b>a</b>&#x00B7;&#x0161;&#x016D;r<b>e</b>||
 |sh|ship|&#x015D;<b>h</b>&#x00EC;p||
