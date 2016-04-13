@@ -124,8 +124,9 @@ Inglish adheres to the following principles:
 |:-:|:-----:|:-----:|:-:|
 |c|cent|&#x00E7;&#x00E8;nt||
 |ch|chip|&#x0109;<b>h</b>&#x00EC;p||
+|ch|ch|&#x;<b>h</b>||
 |ch|loch|l&#x00F2;<b>c</b>&#x0125;||
-|f|of|l&#x00F2;&#x1E1F;||
+|f|of|&#x00F2;&#x1E1F;||
 |g|gel|&#x011D;&#x00E8;l||
 |gh|rough|r<b>o</b>&#x00F9;&#x01F5;<b>h</b>||
 |j|raj|r&#x00E2;&#x0135;||
@@ -136,8 +137,15 @@ Inglish adheres to the following principles:
 |t|nation|n<ins>&#x00E1;</ins>&#x00B7;&#x0163;<b>i</b>&#x014F;n||
 |th|thin|&#x0165;<b>h</b>&#x00EC;n||
 |th|that|&#x1E97;<b>h</b>&#x00E0;t||
-|x|exam|&#x00EC;<i>g</i>&#x00B7;&#x1E8B;<ins>&#x00E0;</ins>m||
+|x|exam|&#x1EBD;<i>g</i>&#x00B7;&#x1E8B;<ins>&#x00E0;</ins>m||
 |z|azure|<ins>&#x00E0;</ins>&#x00B7;&#x017E;&#x016D;r<b>e</b>||
+
+#### Other consonant
+||English|Inglish|IPA|
+|:-:|:-----:|:-----:|:-:|
+|l|ball|b&#x00E5;&#x1E37;<b>l</b>||
+|n|wing|w&#x00EC;&#x0148;<b>g</b>||
+|t|utter|<ins>&#x00F9;</ins><b>t</b>&#x00B7;&#x1E6B;&#x0115;r||
 
 ### Example
 
