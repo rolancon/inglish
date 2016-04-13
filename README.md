@@ -124,10 +124,10 @@ Inglish adheres to the following principles:
 |:-:|:-----:|:-----:|:-:|
 |c|cent|&#x00E7;&#x00E8;nt||
 |ch|chip|&#x0109;<b>h</b>&#x00EC;p||
-|ch|ch|&#x;<b>h</b>||
+|ch|chef|&#x010D;<b>h</b>&#x00E8;f||
 |ch|loch|l&#x00F2;<b>c</b>&#x0125;||
 |f|of|&#x00F2;&#x1E1F;||
-|g|gel|&#x011D;&#x00E8;l||
+|g|gem|&#x011D;&#x00E8;m||
 |gh|rough|r<b>o</b>&#x00F9;&#x01F5;<b>h</b>||
 |j|raj|r&#x00E2;&#x0135;||
 |ph|phone|&#x1E55;<b>h</b>&#x00F3;n<b>e</b>||
