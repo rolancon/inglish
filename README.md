@@ -18,14 +18,16 @@ Inglish adheres to the following principles:
 - Use the semicolon (;) to separate sentences instead of the full stop (.)
 - Use extended characters from the Unicode Latin code charts to express variations in pronunciation for the same base character
 - This means the same character can have multiple renderings, each with different punctuation, which symbolizes 1 distinct sound per punctuated character
+- The same sound can therefore be rendered in multiple ways
 - Only use extended characters with punctuation that appears on top or under base Latin characters, in other words that do not modify the glyph of the base character
 - The only minor exception is for extended characters that replace the dot on top of the 'i' and 'j' characters
-- Characters that are not pronounced are formatted with italic markup
-- Sounds that do not appear in the spelling of the word are shown as characters that are formatted with inserted markup
-- The primary stress is shown with bold (strong) markup
-- The aspirated unvoiced stop is shown as a Unicode character U+00B4 acute accent (&#x00B4;) appended to the 't', 'p', 'k' or 'q' character
+- Characters that are written but not pronounced are formatted with bold markup
+- Sounds that are pronounced but not written are written as characters formatted with bold markup
 - Syllables in a word are separated with a Unicode character U+00B7 middle dot (&#x00B7;) in between
-
+- The primary stress in multi-syllable words is shown with underline markup
+- The secondary stress in multi-syllable words is shown as a Unicode character U+00B4 acute accent (&#x00B4;) appended to the vowel
+- Noun compounds are written with a hyphen (-)
+ 
 ## Charts
 
 ### Vowels
@@ -38,17 +40,17 @@ Inglish adheres to the following principles:
 |i|did|d&#x00EC;d||
 |o|nod|n&#x00F2;d||
 |u|bud|b&#x00F9;d||
-|y|hymn|h&#x1EF3;m<ins>n</ins>||
+|y|hymn|h&#x1EF3;m<b>n</b>||
 
 #### Open
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|a|ate|&#x00E1;t<ins>e</ins>||
+|a|ate|&#x00E1;t<b>e</b>||
 |e|me|m&#x00E9;||
 |i|hi|h&#x00ED;||
 |o|no|n&#x00F3;||
-|u|sue|s&#x00FA;<ins>e</ins>||
-|y|why|w<ins>h</ins>&#x00FD;||
+|u|sue|s&#x00FA;<b>e</b>||
+|y|why|w<b>h</b>&#x00FD;||
 
 #### Combinations with a
 ||English|Inglish|IPA|
@@ -101,10 +103,10 @@ Inglish adheres to the following principles:
 |p|spin|sp&#x00EC;n||
 |q|quiz|q&#x016B;&#x00EC;z||
 |r|rod|r&#x00F2;d||
-|s|sue|s&#x00FA;<ins>e</ins>||
+|s|sue|s&#x00FA;<b>e</b>||
 |t|stop|st&#x00F2;p||
 |v|vet|v&#x00E8;t||
-|w|why|w<ins>h</ins>&#x00FD;||
+|w|why|w<b>h</b>&#x00FD;||
 |x|six|s&#x00EC;x||
 |y|yes|y&#x00E8;s||
 |z|zip|z&#x00EC;p||
@@ -113,22 +115,22 @@ Inglish adheres to the following principles:
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
 |c|can|&#x010B;&#x00E0;n||
-|k|keep|&#x1E33;&#x00E9;<ins>e</ins>p||
+|k|keep|&#x1E33;&#x00E9;<b>e</b>p||
 |p|pan|&#x1E57;&#x00E0;n||
 |t|top|&#x1E6D;&#x00F2;p||
 
 #### Other fricatives
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|ch|chip|&#x0109;<ins>h</ins>&#x00EC;p||
-|ch|loch|l&#x00F2;<ins>c</ins>&#x0125;||
+|ch|chip|&#x0109;<b>h</b>&#x00EC;p||
+|ch|loch|l&#x00F2;<b>c</b>&#x0125;||
 |g|gel|&#x011D;&#x00E8;l||
-|gh|rough|r<ins>o</ins>&#x00F9;&#x01F5;<ins>h</ins>||
+|gh|rough|r<b>o</b>&#x00F9;&#x01F5;<b>h</b>||
 |j|raj|r&#x00E3;&#x0135;||
-|ph|phone|&#x1E55;<ins>h</ins>&#x00F3;n<ins>e</ins>||
-|s|measure|m<b>&#x00E8;</b><ins>a</ins>&#x00B7;&#x0161;&#x016D;r<ins>e</ins>||
-|sh|ship|&#x015D;<ins>h</ins>&#x00EC;p||
-|z|azure|<b>&#x00E0;</b>&#x00B7;&#x017E;&#x016D;r<ins>e</ins>||
+|ph|phone|&#x1E55;<b>h</b>&#x00F3;n<b>e</b>||
+|s|measure|m<ins>&#x00E8;</ins><b>a</b>&#x00B7;&#x0161;&#x016D;r<b>e</b>||
+|sh|ship|&#x015D;<b>h</b>&#x00EC;p||
+|z|azure|<ins>&#x00E0;</ins>&#x00B7;&#x017E;&#x016D;r<b>e</b>||
 
 ### Example
 
