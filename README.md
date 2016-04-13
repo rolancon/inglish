@@ -155,7 +155,6 @@ Inglish adheres to the following principles:
 ĩ
 ï
 ĭ
-
 ī
 
 ò
@@ -166,7 +165,6 @@ Inglish adheres to the following principles:
 ŏ
 ő
 ȍ
-
 ō
 
 ù
@@ -175,7 +173,6 @@ ȍ
 ũ
 ü
 ŭ
-
 ū
 
 ỳ
@@ -243,4 +240,4 @@ Now the whole world had one language and a common speech. As people moved eastwa
 
 ẗ<b>h</b>ĕ t<ins>ō</ins>·wĕr òḟ Babel
 
-nōw ẗ<b>h</b>ĕ <b>w</b>hóḷ<b>e</b> wörḷd hàd <i>w</i>ŏn<b>e</b> l<ins>à</ins>ň·gŭãĝ<b>e</b> ànd ă ċ<ins>ò</ins><b>m</b>·mŏn spé<b>e</b>ĉ<b>h</b>; àş ṗ<ins>é</ins><b>o</b>·p<i>ĕ</i>l<b>e</b> mőv<b>e</b>d <ins>é</ins><b>a</b>st·wãrd, ẗ<b>h</b>êy fǒųnd ã plá<b>i</b>n ìn Shumer ànd s<ins>è</ins><b>t</b>·ƫ<i>ĕ</i>l<b>e</b>d ẗ<b>h</b>èr<b>e</b>
+nōw ẗ<b>h</b>ĕ <b>w</b>hóḷ<b>e</b> wörḷd hàd <i>w</i>ōn<b>e</b> l<ins>à</ins>ň·gūãĝ<b>e</b> ànd ă ċ<ins>ò</ins><b>m</b>·mŏn spé<b>e</b>ĉ<b>h</b>; àş ṗ<ins>é</ins><b>o</b>·p<i>ĕ</i>l<b>e</b> mőv<b>e</b>d <ins>é</ins><b>a</b>st·wãrd, ẗ<b>h</b>êy fǒųnd ã plá<b>i</b>n ìn Shumer ànd s<ins>è</ins><b>t</b>·ƫ<i>ĕ</i>l<b>e</b>d ẗ<b>h</b>èr<b>e</b>
