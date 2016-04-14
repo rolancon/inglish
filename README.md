@@ -52,6 +52,26 @@ Inglish adheres to the following principles:
 |u|sue|s&#x00FA;<b>e</b>||
 |y|why|w<b>h</b>&#x00FD;||
 
+#### Unstressed
+||English|Inglish|IPA|
+|:-:|:-----:|:-----:|:-:|
+|a|basal|b<ins>&#x00E1;</ins>&#x00B7;s&#x0103;l||
+|e|over|<ins>&#x00F3;</ins>&#x00B7;v&#x0115;r||
+|i|denim|d<ins>&#x00E8;</ins>&#x00B7;n&#x012D;m||
+|o|nation|n<ins>&#x00E1;</ins>&#x00B7;&#x0163;<b>i</b>&#x014F;n||
+|u|datum|d<ins>&#x00E0;</ins>&#x00B7;t&#x016D;m||
+|y|vinyl|v<ins>&#x00ED;</ins>&#x00B7;n&#x1EF9;l||
+
+#### Stressed followed by -r-
+||English|Inglish|IPA|
+|:-:|:-----:|:-----:|:-:|
+|a|air|&#x00E1;t<b>e</b>||
+|e|her|m&#x00E9;||
+|i||h&#x00ED;||
+|o||n&#x00F3;||
+|u|fur|s&#x00FA;<b>e</b>||
+|y||w<b>h</b>&#x00FD;||
+
 #### Combinations with a
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
