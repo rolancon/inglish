@@ -59,8 +59,8 @@ Inglish adheres to the following principles:
 |e|over|<ins>&#x00F3;</ins>&#x00B7;v&#x0115;r||
 |i|denim|d<ins>&#x00E8;</ins>&#x00B7;n&#x012D;m||
 |o|nation|n<ins>&#x00E1;</ins>&#x00B7;&#x0163;<b>i</b>&#x014F;n||
-|u|datum|d<ins>&#x00E0;</ins>&#x00B7;t&#x016D;m||
-|y|vinyl|v<ins>&#x00ED;</ins>&#x00B7;n&#x1EF9;l||
+|u|datum|d<ins>&#x00E0;</ins>&#x00B7;&#x1E6B;&#x016D;m||
+|y|vinyl|v<ins>&#x00ED;</ins>&#x00B7;n&#x1EF9;&#x1E37;||
 
 #### Stressed followed by -r-
 ||English|Inglish|IPA|
