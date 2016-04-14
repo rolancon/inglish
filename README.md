@@ -59,7 +59,7 @@ Inglish adheres to the following principles:
 |e|over|<ins>&#x00F3;</ins>&#x00B7;v&#x0115;r||
 |i|denim|d<ins>&#x00E8;</ins>&#x00B7;n&#x012D;m||
 |o|nation|n<ins>&#x00E1;</ins>&#x00B7;&#x0163;<b>i</b>&#x014F;n||
-|u|datum|d<ins>&#x00E0;</ins>&#x00B7;&#x1E6B;&#x016D;m||
+|u|datum|d<ins>&#x00E0;</ins>&#x00B7;&#x0165;&#x016D;m||
 |y|vinyl|v<ins>&#x00ED;</ins>&#x00B7;n&#x1EF9;&#x1E37;||
 
 #### Stressed followed by -r-
@@ -155,7 +155,7 @@ Inglish adheres to the following principles:
 |s|measure|m<ins>&#x00E8;</ins><b>a</b>&#x00B7;&#x0161;&#x016D;r<b>e</b>||
 |sh|ship|&#x015D;<b>h</b>&#x00EC;p||
 |t|nation|n<ins>&#x00E1;</ins>&#x00B7;&#x0163;<b>i</b>&#x014F;n||
-|th|thin|&#x0165;<b>h</b>&#x00EC;n||
+|th|thin|&#x1E6B;<b>h</b>&#x00EC;n||
 |th|that|&#x1E97;<b>h</b>&#x00E0;t||
 |x|exam|&#x1EBD;<i>g</i>&#x00B7;&#x1E8B;<ins>&#x00E0;</ins>m||
 |z|azure|<ins>&#x00E0;</ins>&#x00B7;&#x017E;&#x016D;r<b>e</b>||
@@ -165,7 +165,7 @@ Inglish adheres to the following principles:
 |:-:|:-----:|:-----:|:-:|
 |l|ball|b&#x00E5;&#x1E37;<b>l</b>||
 |n|wing|w&#x00EC;&#x0148;<b>g</b>||
-|t|utter|<ins>&#x00F9;</ins><b>t</b>&#x00B7;&#x1E6B;&#x0115;r||
+|t|utter|<ins>&#x00F9;</ins><b>t</b>&#x00B7;&#x0165;&#x0115;r||
 
 ### Example
 
