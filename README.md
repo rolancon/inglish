@@ -65,12 +65,11 @@ Inglish adheres to the following principles:
 #### Stressed followed by -r-
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|a|air|&#x00E1;t<b>e</b>||
-|e|her|m&#x00E9;||
-|i||h&#x00ED;||
-|o||n&#x00F3;||
-|u|fur|s&#x00FA;<b>e</b>||
-|y||w<b>h</b>&#x00FD;||
+|a|air|||
+|e|her|||
+|i|sir|||
+|o|world|||
+|u|fur|||
 
 #### Combinations with a
 ||English|Inglish|IPA|
