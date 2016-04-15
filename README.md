@@ -100,7 +100,7 @@ Inglish adheres to the following principles:
 |o|coin|c&#x00F4;&#x0129;n||
 |o|one|<i>w</i>&#x00F5;n<b>e</b>||
 |o|too|t&#x0151;<b>o</b>||
-|o|book|b&#x020C;<b>o</b>k||
+|o|book|b&#x020D;<b>o</b>k||
 |o|how|h&#x014D;w||
 
 #### Combinations with a
