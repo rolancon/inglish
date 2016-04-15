@@ -76,8 +76,8 @@ Inglish adheres to the following principles:
 |:-:|:-----:|:-----:|:-:|
 |a|far|f&#x00E2;r||
 |a|ball|b&#x00E5;&#x1E37;<b>l</b>||
-|a|bandage|b</ins>&#x00E0;<ins>n&#x00B7;dg<b>e</b>||
-|a|bayou|b</ins>&#x00E0;<ins>&#x0151;<b>u</b>||
+|a|bandage|b</ins>&#x00E0;</ins>n&#x00B7;&#x00E3;&#x011D;<b>e</b>||
+|a|bayou|b<ins>&#x0101;</ins>&#x00B7;y&#x0151;<b>u</b>||
 
 
 #### Combinations with a
