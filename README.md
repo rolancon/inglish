@@ -65,7 +65,7 @@ Inglish adheres to the following principles:
 #### Stressed followed by -r-
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|a|air|&#x00E4;r||
+|a|air|&#x00E4;<b>i</b>r||
 |e|her|h&#x00EB;r||
 |i|sir|s&#x00EF;r||
 |o|world|w&#x00F6;r&#x1E37;d||
