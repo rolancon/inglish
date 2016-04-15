@@ -71,14 +71,22 @@ Inglish adheres to the following principles:
 |o|world|w&#x00F6;r&#x1E37;d||
 |u|fur|f&#x00FC;r||
 
-#### Other voewels
+#### Other vowel variations
+
+#### a
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
 |a|far|f&#x00E2;r||
 |a|ball|b&#x00E5;&#x1E37;<b>l</b>||
-|a|bandage|b</ins>&#x00E0;</ins>n&#x00B7;&#x00E3;&#x011D;<b>e</b>||
+|a|bandage|b</ins>&#x00E0;</ins>n&#x00B7;d&#x00E3;&#x011D;<b>e</b>||
 |a|bayou|b<ins>&#x0101;</ins>&#x00B7;y&#x0151;<b>u</b>||
 
+#### e
+||English|Inglish|IPA|
+|:-:|:-----:|:-----:|:-:|
+|e|they|&#x1E97;<b>l</b>&#x00EA;y||
+|e|beer|b&#x1EBD;<b>e</b>r||
+|e|sew|s&#x0113;w||
 
 #### Combinations with a
 ||English|Inglish|IPA|
