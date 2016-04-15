@@ -71,6 +71,15 @@ Inglish adheres to the following principles:
 |o|world|w&#x00F6;r&#x1E37;d||
 |u|fur|f&#x00FC;r||
 
+#### Other voewels
+||English|Inglish|IPA|
+|:-:|:-----:|:-----:|:-:|
+|a|far|f&#x00E2;r||
+|a|ball|b&#x00E5;&#x1E37;<b>l</b>||
+|a|bandage|b</ins>&#x00E0;<ins>n&#x00B7;dg<b>e</b>||
+|a|bayou|b</ins>&#x00E0;<ins>&#x0151;<b>u</b>||
+
+
 #### Combinations with a
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
