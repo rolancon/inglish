@@ -8,12 +8,12 @@ Datetime: 2016-03-30T21:36:15Z
 
 ## Overview
 
-Inglish is a way to spell English phonetically while at the same time keeping the current spelling conventions. It does this by adorning the 26 letters of the Latin alphabet with various punctuation symbols and formatting markup.
+Inglish is a way to spell English phonetically while at the same time keeping the current spelling conventions. It does this by adorning the 26 letters of the Latin alphabet with various punctuation symbols and formatting markup. The pronunciation is based on the GA (General American) variety of English.
 
 Inglish adheres to the following principles:
 - Keep the current spelling conventions for English as its basis
 - However, only use lowercase letters for dictionary words
-- Do not spell names phonetically: keep uppercase letters
+- Do not spell names phonetically and keep existing uppercase letters
 - Do not spell foreign words phonetically: keep vowels and consonants as-is
 - Use the semicolon (;) to separate sentences instead of the full stop (.)
 - Use extended characters from the Unicode Latin code charts to express variations in pronunciation for the same base character
@@ -65,11 +65,11 @@ Inglish adheres to the following principles:
 #### Stressed followed by -r-
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|a|air|r||
-|e|her|hr||
-|i|sir|sr||
-|o|world|wr&#x1E37;d||
-|u|fur|fr||
+|a|air|&#x00E4;r||
+|e|her|h&#x00EB;r||
+|i|sir|s&#x00EF;r||
+|o|world|w&#x00F6;r&#x1E37;d||
+|u|fur|f&#x00FC;r||
 
 #### Combinations with a
 ||English|Inglish|IPA|
