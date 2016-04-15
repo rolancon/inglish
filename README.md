@@ -103,6 +103,12 @@ Inglish adheres to the following principles:
 |o|book|b&#x020D;<b>o</b>k||
 |o|how|h&#x014D;w||
 
+#### u
+||English|Inglish|IPA|
+|:-:|:-----:|:-----:|:-:|
+|u||m<ins>&#x0000FB;</ins>&#x00B7;g&#x0103;&#x00B7;z&#x00EE;n<b>e</b>||
+|u|quiz|q&#x0169;&#x00EC;z||
+
 #### Combinations with a
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
