@@ -92,7 +92,16 @@ Inglish adheres to the following principles:
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
 |i|magazine|m<ins>&#x00E0;</ins>&#x00B7;g&#x0103;&#x00B7;z&#x00EE;n<b>e</b>||
-|i|coin|c&#x0129;n||
+|i|coin|c&#x00F4;&#x0129;n||
+
+#### o
+||English|Inglish|IPA|
+|:-:|:-----:|:-----:|:-:|
+|o|coin|c&#x00F4;&#x0129;n||
+|o|one|<i>w</i>&#x00F5;n<b>e</b>||
+|o|too|t&#x0151;<b>o</b>||
+|o|book|b&#x020C;<b>o</b>k||
+|o|how|h&#x014D;w||
 
 #### Combinations with a
 ||English|Inglish|IPA|
