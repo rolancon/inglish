@@ -84,9 +84,15 @@ Inglish adheres to the following principles:
 #### e
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|e|they|&#x1E97;<b>l</b>&#x00EA;y||
+|e|they|&#x1E97;<b>h</b>&#x00EA;y||
 |e|beer|b&#x1EBD;<b>e</b>r||
 |e|sew|s&#x0113;w||
+
+#### i
+||English|Inglish|IPA|
+|:-:|:-----:|:-----:|:-:|
+|i|magazine|m<ins>&#x00E0;</ins>&#x00B7;g&#x0103;&#x00B7;z&#x00EE;n<b>e</b>||
+|i|coin|c&#x0129;n||
 
 #### Combinations with a
 ||English|Inglish|IPA|
