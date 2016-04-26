@@ -55,17 +55,16 @@ Inglish adheres to the following principles:
 #### Unstressed
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|a|basal|b<ins>&#x00E1;</ins>&#x00B7;s&#x0103;l||
-|e|over|<ins>&#x00F3;</ins>&#x00B7;v&#x0115;r||
-|i|denim|d<ins>&#x00E8;</ins>&#x00B7;n&#x012D;m||
-|o|nation|n<ins>&#x00E1;</ins>&#x00B7;&#x0163;<b>i</b>&#x014F;n||
-|u|datum|d<ins>&#x00E0;</ins>&#x00B7;&#x0165;&#x016D;m||
-|y|vinyl|v<ins>&#x00ED;</ins>&#x00B7;n&#x1EF9;&#x1E37;||
+|a|basal|b<ins>&#x00E1;</ins>&#x00B7;s&#x00E3;l||
+|e|over|<ins>&#x00F3;</ins>&#x00B7;v&#x1EBD;r||
+|i|denim|d<ins>&#x00E8;</ins>&#x00B7;n&#x0129;m||
+|o|nation|n<ins>&#x00E1;</ins>&#x00B7;&#x0163;<b>i</b>n||&#x014F;
+|u|datum|d<ins>&#x00E0;</ins>&#x00B7;&#x0165;&#x0169;m||
+|y|vinyl|v<ins>&#x00ED;</ins>&#x00B7;n&#x1E37;||&#x1EF9;
 
 #### Stressed followed by -r-
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|a|air|&#x00E4;<b>i</b>r||
 |e|her|h&#x00EB;r||
 |i|sir|s&#x00EF;r||
 |o|world|w&#x00F6;r&#x1E37;d||
@@ -76,23 +75,24 @@ Inglish adheres to the following principles:
 #### a
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
+|a|air|&#x00E4;<b>i</b>r||
 |a|far|f&#x00E2;r||
 |a|ball|b&#x00E5;&#x1E37;<b>l</b>||
-|a|bandage|b</ins>&#x00E0;</ins>n&#x00B7;d&#x00E3;&#x011D;<b>e</b>||
+|a|bandage|b</ins>&#x00E0;</ins>n&#x00B7;d&#x0103;&#x011D;<b>e</b>||
 |a|bayou|b<ins>&#x0101;</ins>&#x00B7;y&#x0151;<b>u</b>||
 
 #### e
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
 |e|they|&#x1E97;<b>h</b>&#x00EA;y||
-|e|beer|b&#x1EBD;<b>e</b>r||
+|e|beer|b&#x0115;<b>e</b>r||
 |e|sew|s&#x0113;w||
 
 #### i
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
 |i|magazine|m<ins>&#x00E0;</ins>&#x00B7;g&#x0103;&#x00B7;z&#x00EE;n<b>e</b>||
-|i|coin|c&#x00F4;&#x0129;n||
+|i|coin|c&#x00F4;&#x012D;n||
 
 #### o
 ||English|Inglish|IPA|
@@ -106,8 +106,8 @@ Inglish adheres to the following principles:
 #### u
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|u||m<ins>&#x0000FB;</ins>&#x00B7;g&#x0103;&#x00B7;z&#x00EE;n<b>e</b>||
-|u|quiz|q&#x0169;&#x00EC;z||
+|u|magazine|m<ins>&#x0000FB;</ins>&#x00B7;g&#x0103;&#x00B7;z&#x00EE;n<b>e</b>||
+|u|quiz|q&#x016D;&#x00EC;z||
 
 #### Combinations with a
 ||English|Inglish|IPA|
