@@ -58,9 +58,9 @@ Inglish adheres to the following principles:
 |a|basal|b<ins>&#x00E1;</ins>&#x00B7;s&#x00E3;l||
 |e|over|<ins>&#x00F3;</ins>&#x00B7;v&#x1EBD;r||
 |i|denim|d<ins>&#x00E8;</ins>&#x00B7;n&#x0129;m||
-|o|nation|n<ins>&#x00E1;</ins>&#x00B7;&#x0163;<b>i</b>n||&#x014F;
+|o|nation|n<ins>&#x00E1;</ins>&#x00B7;&#x0163;<b>i</b>&#x00F5;n||
 |u|datum|d<ins>&#x00E0;</ins>&#x00B7;&#x0165;&#x0169;m||
-|y|vinyl|v<ins>&#x00ED;</ins>&#x00B7;n&#x1E37;||&#x1EF9;
+|y|vinyl|v<ins>&#x00ED;</ins>&#x00B7;n&#x1EF9;&#x1E37;||
 
 #### Stressed followed by -r-
 ||English|Inglish|IPA|
@@ -98,7 +98,7 @@ Inglish adheres to the following principles:
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
 |o|coin|c&#x00F4;&#x0129;n||
-|o|one|<i>w</i>&#x00F5;n<b>e</b>||
+|o|one|<i>w</i>&#x014F;n<b>e</b>||
 |o|too|t&#x0151;<b>o</b>||
 |o|book|b&#x020D;<b>o</b>k||
 |o|how|h&#x014D;w||
@@ -106,8 +106,13 @@ Inglish adheres to the following principles:
 #### u
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|u|magazine|m<ins>&#x0000FB;</ins>&#x00B7;g&#x0103;&#x00B7;z&#x00EE;n<b>e</b>||
+|u||&#x0000FB;||
 |u|quiz|q&#x016D;&#x00EC;z||
+
+#### y
+||English|Inglish|IPA|
+|:-:|:-----:|:-----:|:-:|
+|y||&#x1EF9;||
 
 #### Combinations with a
 ||English|Inglish|IPA|
