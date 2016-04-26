@@ -119,7 +119,7 @@ Inglish adheres to the following principles:
 |:-:|:-----:|:-----:|:-:|
 |ae|aeon|<b>a</b><ins>&#x00E9;</ins>&#x00B7;&#x00F5;n||
 |ai|aim|&#x00E1;<b>i</b>m||
-|ao|chaos|c<b>h</b><ins>&#x00E1;</ins>&#x00B7;&#x00F2;s||
+|ao|chaos|&#x010B;<b>h</b><ins>&#x00E1;</ins>&#x00B7;&#x00F2;s||
 |au|haul|h&#x00E5;<b>u</b>&#x1E37;||
 |aw|law|l&#x00E5;w||
 |ay|bay|b&#x00E1;y||
@@ -127,39 +127,39 @@ Inglish adheres to the following principles:
 #### Combinations with e
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|ea|flea|&#x00;||
-|ea|bread|&#x00;||
-|ea|hear|&#x00;||
-|ea|earl|&#x00;||
-|ee|bee|&#x00;||
-|ee|beer|&#x00;||
-|ei|beige|&#x00;||
-|eo|peon|&#x00;||
-|eo|pigeon|&#x00;||
-|eo|ceorl|&#x00;||
-|eu|feud|&#x00;||
-|ew|few|&#x00;||
-|ew|sew|&#x00;||
-|ey|key|&#x00;||
-|ey|they|&#x00;||
+|ea|flea|fl&#x00;<b>a</b>||
+|ea|bread|br&#x00;<b>a</b>d||
+|ea|hear|h&#x00;<b>a</b>r||
+|ea|earl|&#x00;<b>a</b>r||
+|ee|bee|b&#x00;<b>e</b>||
+|ee|beer|b&#x00;||
+|ei|beige|b&#x00;<b>i</b><b>e</b>||
+|eo|peon|p&#x00;n||
+|eo|pigeon|p&#x00;<b>e</b>n||
+|eo|ceorl|c&#x00;<b>o</b>r||
+|eu|feud|f<i>y</i>&#x00;d||
+|ew|few|f<i>y</i>&#x00;w||
+|ew|sew|s&#x00;w||
+|ey|key|k&#x00;y||
+|ey|they|<b>h</b>&#x00;y||
 
 #### Combinations with o
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|oa|oak|&#x00;||
-|oa|oar|&#x00;||
-|oe|shoe|&#x00;||
-|oe|toe|&#x00;||
+|oa|oak|&#x00;<b>a</b>k||
+|oa|oar|&#x00;<b>a</b>r||
+|oe|shoe|<b>h</b>&#x00;<b>e</b>||
+|oe|toe|&#x00;<b>e</b>||
 |oi|coin|&#x00;||
 |oo|book|&#x00;||
 |oo|too|&#x00;||
-|oo|door|&#x00;||
-|ou|out|&#x00;||
+|oo|door|d&#x00;<b>o</b>r||
+|ou|out|&#x00;<b>u</b>t||
 |ou|bayou|&#x00;||
-|ou|our|&#x00;||
-|ow|low|&#x00;||
-|ow|how|&#x00;||
-|oy|toy|&#x00;||
+|ou|our|&#x00;r||
+|ow|low|l&#x00;w||
+|ow|how|h&#x00;w||
+|oy|toy|&#x00;y||
 
 ### Consonants
 
@@ -222,7 +222,8 @@ Inglish adheres to the following principles:
 |:-:|:-----:|:-----:|:-:|
 |l|ball|b&#x00E5;&#x1E37;<b>l</b>||
 |n|wing|w&#x00EC;&#x0148;<b>g</b>||
-|t|utter|<ins>&#x00F9;</ins><b>t</b>&#x00B7;&#x0165;&#x0115;r||
+|tt|utter|<ins>&#x00F9;</ins><b>t</b>&#x00B7;&#x0165;&#x0115;r||
+|nt|winter|w<ins>&#x00EC;</ins>&#x00B7;n<b>t</b>&#x0165;&#x0115;r||
 
 ### Example
 
