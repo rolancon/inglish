@@ -112,17 +112,17 @@ Inglish adheres to the following principles:
 #### y
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|y||&#x1EF9;||
+|y||&#x00FF;||
 
 #### Combinations with a
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|ae|aeon|&#x00;e&#x00B7;on||
-|ai|aim|&#x00;im||
-|ao|chaos|ch&#x00;os||
-|au|haul|h&#x00;l||
-|aw|law|l&#x00;w||
-|ay|bay|b&#x00;y||
+|ae|aeon|<b>a</b><ins>&#x00E9;</ins>&#x00B7;&#x00F5;n||
+|ai|aim|&#x00E1;<b>i</b>m||
+|ao|chaos|c<b>h</b><ins>&#x00E1;</ins>&#x00B7;&#x00E2;s||
+|au|haul|h&#x00E5;<b>u</b>&#x1E37;||
+|aw|law|l&#x00E5;w||
+|ay|bay|b&#x00E1;y||
 
 #### Combinations with e
 ||English|Inglish|IPA|
