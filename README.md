@@ -87,17 +87,18 @@ Inglish adheres to the following principles:
 |e|they|&#x1E97;<b>h</b>&#x00EA;y||
 |e|beer|b&#x0115;<b>e</b>r||
 |e|sew|s&#x0113;w||
+|e|new|n&#x;w||
 
 #### i
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
 |i|magazine|m<ins>&#x00E0;</ins>&#x00B7;g&#x0103;&#x00B7;z&#x00EE;n<b>e</b>||
-|i|coin|c&#x00F4;&#x012D;n||
+|i|coin|&#x010B;&#x00F4;&#x012D;n||
 
 #### o
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|o|coin|c&#x00F4;&#x0129;n||
+|o|coin|&#x010B;&#x00F4;&#x012D;n||
 |o|one|<i>w</i>&#x014F;n<b>e</b>||
 |o|too|t&#x0151;<b>o</b>||
 |o|book|b&#x020D;<b>o</b>k||
@@ -127,21 +128,21 @@ Inglish adheres to the following principles:
 #### Combinations with e
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|ea|flea|fl&#x00;<b>a</b>||
-|ea|bread|br&#x00;<b>a</b>d||
-|ea|hear|h&#x00;<b>a</b>r||
-|ea|earl|&#x00;<b>a</b>r||
-|ee|bee|b&#x00;<b>e</b>||
-|ee|beer|b&#x00;||
-|ei|beige|b&#x00;<b>i</b><b>e</b>||
-|eo|peon|p&#x00;n||
-|eo|pigeon|p&#x00;<b>e</b>n||
-|eo|ceorl|c&#x00;<b>o</b>r||
-|eu|feud|f<i>y</i>&#x00;d||
+|ea|flea|fl&#x00E9;<b>a</b>||
+|ea|bread|br&#x00E8;<b>a</b>d||
+|ea|hear|h&#x0115;<b>a</b>r||
+|ea|earl|&#x00EB;<b>a</b>r||
+|ee|bee|b&#x00E9;<b>e</b>||
+|ee|beer|b&#x0115;<b>e</b>r||
+|ei|beige|b&#x00EA;<b>i</b><b>e</b>||
+|eo|peon|p<ins>&#x00E9;</ins>&#x00B7;&#x00F5;n||
+|eo|pigeon|p<ins>&#x00EC;</ins>&#x00B7;&#x011D;&#x00F5;||
+|eo|ceorl|c&#x00EB;<b>o</b>r<b>l</b>||
+|eu|feud|f<i>y</i><b>e</b>&#x00FA;d||
 |ew|few|f<i>y</i>&#x00;w||
-|ew|sew|s&#x00;w||
-|ey|key|k&#x00;y||
-|ey|they|<b>h</b>&#x00;y||
+|ew|sew|s&#x0113;w||
+|ey|key|k&#x00E9;y||
+|ey|they|&#x1E97;<b>h</b>&#x00EA;y||
 
 #### Combinations with o
 ||English|Inglish|IPA|
@@ -205,6 +206,7 @@ Inglish adheres to the following principles:
 |ch|loch|l&#x00F2;<b>c</b>&#x0125;||
 |f|of|&#x00F2;&#x1E1F;||
 |g|gem|&#x011D;&#x00E8;m||
+|g|beige|b&#x00EA;<b>i</b><b>e</b>||
 |gh|rough|r<b>o</b>&#x00F9;&#x01F5;<b>h</b>||
 |j|raj|r&#x00E2;&#x0135;||
 |ph|phone|&#x1E55;<b>h</b>&#x00F3;n<b>e</b>||
