@@ -87,7 +87,7 @@ Inglish adheres to the following principles:
 |e|they|&#x1E97;<b>h</b>&#x00EA;y||
 |e|beer|b&#x0115;<b>e</b>r||
 |e|sew|s&#x0113;w||
-|e|new|n&#x;w||
+|e|new|n&#x0117;w||
 
 #### i
 ||English|Inglish|IPA|
@@ -136,10 +136,10 @@ Inglish adheres to the following principles:
 |ee|beer|b&#x0115;<b>e</b>r||
 |ei|beige|b&#x00EA;<b>i</b><b>e</b>||
 |eo|peon|&#x1E57;<ins>&#x00E9;</ins>&#x00B7;&#x00F5;n||
-|eo|pigeon|&#x1E57;<ins>&#x00EC;</ins>&#x00B7;&#x011D;&#x00F5;n||
+|eo|pigeon|&#x1E57;<ins>&#x00EC;</ins>&#x00B7;&#x011D;<b>e</b>&#x00F5;n||
 |eo|ceorl|&#x010B;&#x00EB;<b>o</b>r&#x1E37;||
 |eu|feud|f<i>y</i><b>e</b>&#x00FA;d||
-|ew|few|f<i>y</i>&#x00;w||
+|ew|few|f<i>y</i>&#x0117;w||
 |ew|sew|s&#x0113;w||
 |ey|key|&#x1E33;&#x00E9;y||
 |ey|they|&#x1E97;<b>h</b>&#x00EA;y||
