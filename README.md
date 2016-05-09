@@ -165,9 +165,9 @@ Inglish adheres to the following principles:
 |oo|book|b&#x020D;<b>o</b>k||
 |oo|too|&#x1E6D;&#x0151;<b>o</b>||
 |oo|door|d&#x00F4;<b>o</b>r||
-|ou|out|&#x014D;<b></b>t||
+|ou|out|&#x014D;&#x016D;t||
 |ou|bayou|b<ins>&#x0101;</ins>&#x00B7;y&#x0151;<b>u</b>||
-|ou|our|<ins>&#x014D;</ins>&#x00B7;<i>&#x0117;</i>r||
+|ou|our|<ins>&#x014D;</ins>&#x00B7;&#x016D;<i>&#x0117;</i>r||
 |ow|low|l&#x00F3;w||
 |ow|how|h&#x014D;w||
 |oy|toy|&#x1E6D;&#x00F4;y||
