@@ -134,7 +134,7 @@ Inglish adheres to the following principles:
 |ea|earl|&#x00EB;<b>a</b>r&#x1E37;||
 |ee|bee|b&#x00E9;<b>e</b>||
 |ee|beer|b&#x0115;<b>e</b>r||
-|ei|beige|b&#x00EA;<b>i</b><b>e</b>||
+|ei|beige|b&#x00EA;<b>i</b>&#x01E7;<b>e</b>||
 |eo|peon|&#x1E57;<ins>&#x00E9;</ins>&#x00B7;&#x00F5;n||
 |eo|pigeon|&#x1E57;<ins>&#x00EC;</ins>&#x00B7;&#x011D;<b>e</b>&#x00F5;n||
 |eo|ceorl|&#x010B;&#x00EB;<b>o</b>r&#x1E37;||
@@ -206,18 +206,18 @@ Inglish adheres to the following principles:
 |ch|loch|l&#x00F2;<b>c</b>&#x0125;||
 |f|of|&#x00F2;&#x1E1F;||
 |g|gem|&#x011D;&#x00E8;m||
-|g|beige|b&#x00EA;<b>i</b><b>e</b>||
+|g|beige|b&#x00EA;<b>i</b>&#x01E7;<b>e</b>||
 |gh|rough|r<b>o</b>&#x00F9;&#x01F5;<b>h</b>||
 |j|raj|r&#x00E2;&#x0135;||
 |ph|phone|&#x1E55;<b>h</b>&#x00F3;n<b>e</b>||
 |s|is|&#x00EC;&#x1E61;||
-|s|measure|m<ins>&#x00E8;</ins><b>a</b>&#x00B7;&#x0161;&#x016D;r<b>e</b>||
+|s|measure|m<ins>&#x00E8;</ins><b>a</b>&#x00B7;&#x0161;&#x0169;r<b>e</b>||
 |sh|ship|&#x015D;<b>h</b>&#x00EC;p||
-|t|nation|n<ins>&#x00E1;</ins>&#x00B7;&#x0163;<b>i</b>&#x014F;n||
+|t|nation|n<ins>&#x00E1;</ins>&#x00B7;&#x0163;<b>i</b>&#x00F5;n||
 |th|thin|&#x1E6B;<b>h</b>&#x00EC;n||
 |th|that|&#x1E97;<b>h</b>&#x00E0;t||
-|x|exam|&#x1EBD;<i>g</i>&#x00B7;&#x1E8B;<ins>&#x00E0;</ins>m||
-|z|azure|<ins>&#x00E0;</ins>&#x00B7;&#x017E;&#x016D;r<b>e</b>||
+|x|exam|&#x0115;<i>g</i>&#x00B7;&#x1E8B;<ins>&#x00E0;</ins>m||
+|z|azure|<ins>&#x00E0;</ins>&#x00B7;&#x017E;&#x0169;r<b>e</b>||
 
 #### Other consonant
 ||English|Inglish|IPA|
