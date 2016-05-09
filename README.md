@@ -131,17 +131,17 @@ Inglish adheres to the following principles:
 |ea|flea|fl&#x00E9;<b>a</b>||
 |ea|bread|br&#x00E8;<b>a</b>d||
 |ea|hear|h&#x0115;<b>a</b>r||
-|ea|earl|&#x00EB;<b>a</b>r||
+|ea|earl|&#x00EB;<b>a</b>r&#x1E37;||
 |ee|bee|b&#x00E9;<b>e</b>||
 |ee|beer|b&#x0115;<b>e</b>r||
 |ei|beige|b&#x00EA;<b>i</b><b>e</b>||
-|eo|peon|p<ins>&#x00E9;</ins>&#x00B7;&#x00F5;n||
-|eo|pigeon|p<ins>&#x00EC;</ins>&#x00B7;&#x011D;&#x00F5;||
-|eo|ceorl|c&#x00EB;<b>o</b>r<b>l</b>||
+|eo|peon|&#x1E57;<ins>&#x00E9;</ins>&#x00B7;&#x00F5;n||
+|eo|pigeon|&#x1E57;<ins>&#x00EC;</ins>&#x00B7;&#x011D;&#x00F5;n||
+|eo|ceorl|&#x010B;&#x00EB;<b>o</b>r&#x1E37;||
 |eu|feud|f<i>y</i><b>e</b>&#x00FA;d||
 |ew|few|f<i>y</i>&#x00;w||
 |ew|sew|s&#x0113;w||
-|ey|key|k&#x00E9;y||
+|ey|key|&#x1E33;&#x00E9;y||
 |ey|they|&#x1E97;<b>h</b>&#x00EA;y||
 
 #### Combinations with o
@@ -179,7 +179,7 @@ Inglish adheres to the following principles:
 |m|me|m&#x00E9;||
 |n|no|n&#x00F3;||
 |p|spin|sp&#x00EC;n||
-|q|quiz|q&#x0169;&#x00EC;z||
+|q|quiz|q&#x016D;&#x00EC;z||
 |r|rod|r&#x00F2;d||
 |s|sue|s&#x00FA;<b>e</b>||
 |t|stop|st&#x00F2;p||
