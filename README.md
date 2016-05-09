@@ -224,8 +224,8 @@ Inglish adheres to the following principles:
 |:-:|:-----:|:-----:|:-:|
 |l|ball|b&#x00E5;&#x1E37;<b>l</b>||
 |n|wing|w&#x00EC;&#x0148;<b>g</b>||
-|tt|utter|<ins>&#x00F9;</ins><b>t</b>&#x00B7;&#x0165;&#x0115;r||
-|nt|winter|w<ins>&#x00EC;</ins>&#x00B7;n<b>t</b>&#x0165;&#x0115;r||
+|tt|utter|<ins>&#x00F9;</ins><b>t</b>&#x00B7;&#x0165;&#x1EBD;r||
+|nt|winter|w<ins>&#x00EC;</ins>n&#x00B7;&#x0165;&#x1EBD;r||
 
 ### Example
 
