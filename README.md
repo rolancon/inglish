@@ -87,7 +87,7 @@ Inglish adheres to the following principles:
 |e|they|&#x1E97;<b>h</b>&#x00EA;y||
 |e|beer|b&#x0115;<b>e</b>r||
 |e|sew|s&#x0113;w||
-|e|new|n&#x0117;w||
+|e|new|n&#x011B;w||
 
 #### i
 ||English|Inglish|IPA|
@@ -139,28 +139,38 @@ Inglish adheres to the following principles:
 |eo|pigeon|&#x1E57;<ins>&#x00EC;</ins>&#x00B7;&#x011D;<b>e</b>&#x00F5;n||
 |eo|ceorl|&#x010B;&#x00EB;<b>o</b>r&#x1E37;||
 |eu|feud|f<i>y</i><b>e</b>&#x00FA;d||
-|ew|few|f<i>y</i>&#x0117;w||
+|ew|few|f<i>y</i>&#x011B;w||
 |ew|sew|s&#x0113;w||
 |ey|key|&#x1E33;&#x00E9;y||
 |ey|they|&#x1E97;<b>h</b>&#x00EA;y||
 
+|o|coin|&#x010B;&#x00F4;&#x012D;n||
+|o|one|<i>w</i>&#x014F;n<b>e</b>||
+|o|too|t&#x0151;<b>o</b>||
+|o|book|b&#x020D;<b>o</b>k||
+|o|how|h&#x014D;w||
+|o|nod|n&#x00F2;d||
+|o|no|n&#x00F3;||
+|o|nation|n<ins>&#x00E1;</ins>&#x00B7;&#x0163;<b>i</b>&#x00F5;n||
+|o|world|w&#x00F6;r&#x1E37;d||
+
 #### Combinations with o
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|oa|oak|&#x00;<b>a</b>k||
-|oa|oar|&#x00;<b>a</b>r||
-|oe|shoe|<b>h</b>&#x00;<b>e</b>||
-|oe|toe|&#x00;<b>e</b>||
-|oi|coin|&#x00;||
-|oo|book|&#x00;||
-|oo|too|&#x00;||
-|oo|door|d&#x00;<b>o</b>r||
-|ou|out|&#x00;<b>u</b>t||
-|ou|bayou|&#x00;||
-|ou|our|&#x00;r||
-|ow|low|l&#x00;w||
-|ow|how|h&#x00;w||
-|oy|toy|&#x00;y||
+|oa|oak|&#x00F3;<b>a</b>k||
+|oa|oar|&#x00F4;<b>a</b>r||
+|oe|shoe|&#x015D;<b>h</b>&#x0151;<b>e</b>||
+|oe|toe|&#x1E6D;&#x00F3;<b>e</b>||
+|oi|coin|&#x010B;&#x00F4;&#x012D;n||
+|oo|book|b&#x020D;<b>o</b>k||
+|oo|too|&#x1E6D;&#x0151;<b>o</b>||
+|oo|door|d&#x00F4;<b>o</b>r||
+|ou|out|&#x014D;<b></b>t||
+|ou|bayou|b<ins>&#x0101;</ins>&#x00B7;y&#x0151;<b>u</b>||
+|ou|our|<ins>&#x014D;</ins>&#x00B7;<i>&#x0117;</i>r||
+|ow|low|l&#x00F3;w||
+|ow|how|h&#x014D;w||
+|oy|toy|&#x1E6D;&#x00F4;y||
 
 ### Consonants
 
