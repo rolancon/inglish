@@ -144,16 +144,6 @@ Inglish adheres to the following principles:
 |ey|key|&#x1E33;&#x00E9;y||
 |ey|they|&#x1E97;<b>h</b>&#x00EA;y||
 
-|o|coin|&#x010B;&#x00F4;&#x012D;n||
-|o|one|<i>w</i>&#x014F;n<b>e</b>||
-|o|too|t&#x0151;<b>o</b>||
-|o|book|b&#x020D;<b>o</b>k||
-|o|how|h&#x014D;w||
-|o|nod|n&#x00F2;d||
-|o|no|n&#x00F3;||
-|o|nation|n<ins>&#x00E1;</ins>&#x00B7;&#x0163;<b>i</b>&#x00F5;n||
-|o|world|w&#x00F6;r&#x1E37;d||
-
 #### Combinations with o
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
@@ -238,45 +228,27 @@ Inglish adheres to the following principles:
 |nt|winter|w<ins>&#x00EC;</ins>n&#x00B7;&#x0165;&#x1EBD;r||
 
 ### Example
-
+<div style="display:hidden">
 àáâãäăā
-
 èéêẽëĕěēė
-
 ìíîĩïĭī
-
 òóôõöŏőȍō
-
 ùúûũüŭū
-
 ỳýŷỹÿ
-
 ĉċçč
-
 ḟ
-
 ǵĝǧ
-
 ĥ
-
 ĵ
-
 ḳ
-
 ḷ
-
 ň
-
 ṕṗ
-
 ŝṣš
-
 ṫẗṭţť
-
 ẋ
-
 ž
-
+</div>
 The Tower of Babel
 
 Now the whole world had one language and a common speech. As people moved eastward, they found a plain in Shinar and settled there.
