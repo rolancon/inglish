@@ -228,7 +228,7 @@ Inglish adheres to the following principles:
 |nt|winter|w<ins>&#x00EC;</ins>n&#x00B7;&#x0165;&#x1EBD;r||
 
 ### Example
-<div style="display:none">
+<div style="display:none;">
 àáâãäăā
 èéêẽëĕěēė
 ìíîĩïĭī
