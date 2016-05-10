@@ -228,6 +228,14 @@ Inglish adheres to the following principles:
 |nt|winter|w<ins>&#x00EC;</ins>n&#x00B7;&#x0165;&#x1EBD;r||
 
 ### Example
+The Tower of Babel
+
+Now the whole world had one language and a common speech. As people moved eastward, they found a plain in Shinar and settled there.
+
+ẗ<b>h</b>ẽ t<ins>ō</ins>·wẽr òḟ Babel
+
+nōw ẗ<b>h</b>ẽ <b>w</b>hóḷ<b>e</b> wörḷd hàd <i>w</i>ŏn<b>e</b> l<ins>à</ins>ň·gŭăĝ<b>e</b> ànd ã ċ<ins>ò</ins><b>m</b>·mõn spé<b>e</b>ĉ<b>h</b>; àṣ ṗ<ins>é</ins><b>o</b>·p<i>ė</i>l<b>e</b> mőv<b>e</b>d <ins>é</ins><b>a</b>st·wãrd, ẗ<b>h</b>êy fōŭnd ã plá<b>i</b>n ìn Shumer ànd s<ins>è</ins><b>t</b>·ṫ<i>ė</i>l<b>e</b>d ẗ<b>h</b>èr<b>e</b>
+
 <div style="display:none;">
 àáâãäăā
 èéêẽëĕěēė
@@ -249,10 +257,3 @@ Inglish adheres to the following principles:
 ẋ
 ž
 </div>
-The Tower of Babel
-
-Now the whole world had one language and a common speech. As people moved eastward, they found a plain in Shinar and settled there.
-
-ẗ<b>h</b>ẽ t<ins>ō</ins>·wẽr òḟ Babel
-
-nōw ẗ<b>h</b>ẽ <b>w</b>hóḷ<b>e</b> wörḷd hàd <i>w</i>ŏn<b>e</b> l<ins>à</ins>ň·gŭăĝ<b>e</b> ànd ã ċ<ins>ò</ins><b>m</b>·mõn spé<b>e</b>ĉ<b>h</b>; àṣ ṗ<ins>é</ins><b>o</b>·p<i>ė</i>l<b>e</b> mőv<b>e</b>d <ins>é</ins><b>a</b>st·wãrd, ẗ<b>h</b>êy fōŭnd ã plá<b>i</b>n ìn Shumer ànd s<ins>è</ins><b>t</b>·ṫ<i>ė</i>l<b>e</b>d ẗ<b>h</b>èr<b>e</b>
