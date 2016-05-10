@@ -239,64 +239,23 @@ Inglish adheres to the following principles:
 
 ### Example
 
-à
-á
-â
-ã
-ä
-ă
-ā
+àáâãäăā
 
-è
-é
-ê
-ẽ
-ë
-ĕ
+èéêẽëĕěēė
 
-ē
+ìíîĩïĭī
 
-ì
-í
-î
-ĩ
-ï
-ĭ
-ī
+òóôõöŏőȍō
 
-ò
-ó
-ô
-õ
-ö
-ŏ
-ő
-ȍ
-ō
+ùúûũüŭū
 
-ù
-ú
-û
-ũ
-ü
-ŭ
-ū
+ỳýŷỹÿ
 
-ỳ
-ý
-ŷ
-ỹ
-ÿ
-
-ĉ
-ċ
-ç
-č
+ĉċçč
 
 ḟ
 
-ǵ
-ĝ
+ǵĝǧ
 
 ĥ
 
@@ -308,43 +267,20 @@ ȍ
 
 ň
 
-ṕ
-ṗ
+ṕṗ
 
-ŝ
-ṣ
-š
+ŝṣš
 
-ṫ
-ẗ
-ṭ
-ţ
-ť
+ṫẗṭţť
 
 ẋ
 
 ž
 
-
-hello there
-
-how are you
-
-i am good
-
-
-hè<b>l</b>·l<ins>ó</ins> ẗ<b>h</b>èr<b>e</b>
-
-hōw âr<b>e</b> yő<b>u</b>
-
-í àm gȍ<b>o</b>d
-
-===
-
 The Tower of Babel
 
 Now the whole world had one language and a common speech. As people moved eastward, they found a plain in Shinar and settled there.
 
-ẗ<b>h</b>ĕ t<ins>ō</ins>·wĕr òḟ Babel
+ẗ<b>h</b>ẽ t<ins>ō</ins>·wẽr òḟ Babel
 
-nōw ẗ<b>h</b>ĕ <b>w</b>hóḷ<b>e</b> wörḷd hàd <i>w</i>õn<b>e</b> l<ins>à</ins>ň·gũãĝ<b>e</b> ànd ă ċ<ins>ò</ins><b>m</b>·mŏn spé<b>e</b>ĉ<b>h</b>; àṣ ṗ<ins>é</ins><b>o</b>·p<i>ĕ</i>l<b>e</b> mőv<b>e</b>d <ins>é</ins><b>a</b>st·wărd, ẗ<b>h</b>êy fōũnd ă plá<b>i</b>n ìn Shumer ànd s<ins>è</ins><b>t</b>·ṫ<i>ĕ</i>l<b>e</b>d ẗ<b>h</b>èr<b>e</b>
+nōw ẗ<b>h</b>ẽ <b>w</b>hóḷ<b>e</b> wörḷd hàd <i>w</i>ŏn<b>e</b> l<ins>à</ins>ň·gŭăĝ<b>e</b> ànd ã ċ<ins>ò</ins><b>m</b>·mõn spé<b>e</b>ĉ<b>h</b>; àṣ ṗ<ins>é</ins><b>o</b>·p<i>ė</i>l<b>e</b> mőv<b>e</b>d <ins>é</ins><b>a</b>st·wãrd, ẗ<b>h</b>êy fōŭnd ã plá<b>i</b>n ìn Shumer ànd s<ins>è</ins><b>t</b>·ṫ<i>ė</i>l<b>e</b>d ẗ<b>h</b>èr<b>e</b>
