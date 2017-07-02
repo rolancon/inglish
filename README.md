@@ -17,7 +17,7 @@ Inglish adheres to the following principles:
 - Only use lowercase letters for dictionary words
 - Do not spell names phonetically and keep existing uppercase letters
 - Do not spell foreign words phonetically: keep vowels and consonants as-is
-- Syllables in a word on the boundary of two identical consonants or tw vowels are separated with a Unicode character U+00B7 middle dot (&#x00B7;) in between
+- Syllables in a word on the boundary of two identical consonants or two vowels are separated with a Unicode character U+00B7 middle dot (&#x00B7;) in between
 - The closed-syllable a, o and u vowels are shown with a Unicode character U+00B4 grave accent (&#x0060;) diacritic on top, as a reminder of their diverging pronunciation from continental European languages
 - The unstressed e (pronounced as schwa) is also written with the grave accent
 - The primary stress in multi-syllable words can be shown in underline markup
@@ -127,7 +127,7 @@ Inglish adheres to the following principles:
 |ea|flea|flei||
 |ea|bread|bred||
 |ea|hear|hir||
-|ea|earl|ir||
+|ea|earl|ùrl||
 |ee|bee|bei||
 |ee|beer|bir||
 |ei|beige|bayj||
@@ -227,7 +227,10 @@ Inglish adheres to the following principles:
 
 ### Example
 The Tower of Babel
+
 dhù tuwèr òv Babel
 
+
 Now the whole world had one language and a common speech. As people moved eastward, they found a plain in Shinar and settled there.
+
 nuw dhù howl wùrld hàd wùn làngwidj ànd ù kò·mèn speitsh; às peipèl muevd eistwèrd, dhay fuwnd ù playn in Shinar ànd se·tèld dher;
