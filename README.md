@@ -14,6 +14,7 @@ Inglish adheres to the following principles:
 - Be as natural for English speakers as possible
 - Be as easy for non-English speakers as possible
 - Only use lowercase letters for dictionary words
+- Existing punctuation and the capitalized first letter of the initial word of a sentence are retained.
 - Do not spell names phonetically and keep existing uppercase letters
 - Do not spell foreign words phonetically: keep vowels and consonants as-is
 - The unstressed e is pronounced as a **schwa** (like _e_ in inn _e_ r)
