@@ -21,7 +21,7 @@ Inglish adheres to the following principles:
 - The letter combination _xs_ is pronounced as **ks**, _xz_ as **gz**.
 - The **j** sound is spelled as _dj_, and as _gj_ at the start of a word. Single _j_ is pronounced as_z_ in a _z_ ure.
 - The **ch** sound is spelled as _tsh_, and as _ch_ at the start of a word.
-_ The **ng** sound in singer is spelled as si _ng_ er, the one in finger as fin _ngg_ er.  
+- The **ng** sound in singer is spelled as si _ng_ er, the one in finger as fin _ngg_ er.  
 - The _dh_ letter combination is pronounced as the voiced _th_ in _th_ is.
 - Syllables in a word on the boundary of three or more vowels are separated with a Unicode character U+00B7 middle dot (&#x00B7;) in between
 - Stressed syllables containing closed vowels (_a_, _e_, _i_, _o_, _u_) followed by only one consonant (except _c_,  _h_,  _j_, _q_, _w_, _x_ and _y_,) and at least one more vowel, have this single consonant doubled (like _n_ in i _nn_ er).
