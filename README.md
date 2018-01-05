@@ -2,24 +2,30 @@
 
 Phonetic English
 
-Version: 0.2
+Version: 1.0
 
-Datetime: 2017-07-01T22:30:00Z
+Datetime: 2018-01-05T2:39:00Z
 
 ## Overview
 
-Inglish is a way to spell English phonetically while trying hard to mimic the current spelling conventions. It does this by employing one vowel diacritic and having as limited a set of combinations of 2 letters, taken from the 26 letters of the Latin alphabet, as possible for all the sounds that cannot be expressed with the 26 single letters. The pronunciation is based on the GA (General American) variety of English.
+Inglish is a way to spell English phonetically while trying hard to mimic the current spelling conventions. It does this by having as limited a set of combinations of 2 letters, taken from the 26 letters of the Latin alphabet, as possible for all the sounds that cannot be expressed with the 26 single letters. The pronunciation is based on the GA (General American) variety of English.
 
 Inglish adheres to the following principles:
 - Be as natural for English speakers as possible
 - Be as easy for non-English speakers as possible
-- Use the semicolon (;) to separate sentences instead of the full stop (.)
 - Only use lowercase letters for dictionary words
 - Do not spell names phonetically and keep existing uppercase letters
 - Do not spell foreign words phonetically: keep vowels and consonants as-is
-- Syllables in a word on the boundary of two identical consonants or two vowels are separated with a Unicode character U+00B7 middle dot (&#x00B7;) in between
-- The closed-syllable a, o and u vowels are shown with a Unicode character U+00B4 grave accent (&#x0060;) diacritic on top, as a reminder of their diverging pronunciation from continental European languages
-- The unstressed e (pronounced as schwa) is also written with the grave accent
+- The unstressed e is pronounced as a **schwa** (like _e_ in inn _e_ r)
+- The **k** sound is spelled as _c_ everywhere, except as _k_ in front of an _e_ or an _i_, and as _q_ in front of _w_.
+- The letter combination _xs_ is pronounced as **ks**, _xz_ as **gz**.
+- The **j** sound is spelled as _dj_, and as _gj_ at the start of a word. Single _j_ is pronounced as_z_ in a _z_ ure.
+- The **ch** sound is spelled as _tsh_, and as _ch_ at the start of a word.
+_ The **ng** sound in singer is spelled as si _ng_ er, the one in finger as fin _ngg_ er.  
+- The _dh_ letter combination is pronounced as the voiced _th_ in _th_ is.
+- Syllables in a word on the boundary of three or more vowels are separated with a Unicode character U+00B7 middle dot (&#x00B7;) in between
+- Stressed syllables containing closed vowels (_a_, _e_, _i_, _o_, _u_) followed by only one consonant (except _c_,  _h_,  _j_, _q_, _w_, _x_ and _y_,) and at least one more vowel, have this single consonant doubled (like _n_ in i _nn_ er).
+- Stressed syllables containing closed vowels (_a_, _e_, _i_, _o_, _u_) as the last letter in a word are followed by an _h_.
 - The primary stress in multi-syllable words can be shown in underline markup
 - The secondary stress in multi-syllable words can be shown in bold markup
 
@@ -30,11 +36,11 @@ Inglish adheres to the following principles:
 #### Closed
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|a|bad|bàd||
+|a|bad|bad||
 |e|bed|bed||
 |i|did|did||
-|o|nod|nòd||
-|u|bud|bùd||
+|o|nod|nod||
+|u|bud|bud||
 |y|hymn|him||
 
 #### Open
@@ -50,20 +56,20 @@ Inglish adheres to the following principles:
 #### Unstressed
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|a|basal|baysèl||
-|e|over|owvèr||
-|i|denim|denèm||
-|o|nation|nayshèn||
-|u|datum|dàtèm||
-|y|vinyl|viynèl||
+|a|basal|baysel||
+|e|over|owver||
+|i|denim|dennem||
+|o|nation|nayshen||
+|u|datum|dattem||
+|y|vinyl|viynel||
 
 #### Stressed followed by -r-
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|e|her|hùr||
-|i|sir|sùr||
-|o|world|wùrld||
-|u|fur|fùr||
+|e|her|hur||
+|i|sir|sur||
+|o|world|wurld||
+|u|fur|fur||
 
 #### Other vowel variations
 
@@ -73,8 +79,8 @@ Inglish adheres to the following principles:
 |a|air|er||
 |a|far|far||
 |a|ball|baul||
-|a|bandage|bàndidj||
-|a|bayou|bòyue||
+|a|bandage|bandidj||
+|a|father|fodher||
 
 #### e
 ||English|Inglish|IPA|
@@ -87,14 +93,14 @@ Inglish adheres to the following principles:
 #### i
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|i|magazine|màgèzein||
-|i|coin|koyn||
+|i|magazine|magezein||
+|i|coin|coyn||
 
 #### o
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|o|coin|koyn||
-|o|one|wùn||
+|o|coin|coyn||
+|o|one|wun||
 |o|too|tue||
 |o|book|bouk||
 |o|how|huw||
@@ -104,7 +110,7 @@ Inglish adheres to the following principles:
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
 |u|quiz|qwiz||
-|u|pure|piur||
+|u|pure|pyour||
 
 #### y
 ||English|Inglish|IPA|
@@ -114,9 +120,9 @@ Inglish adheres to the following principles:
 #### Combinations with a
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|ae|aeon|ei·èn||
+|ae|aeon|ei·en||
 |ai|aim|aym||
-|ao|chaos|kayòs||
+|ao|chaos|kayos||
 |au|haul|haul||
 |aw|law|lau||
 |ay|bay|bay||
@@ -127,15 +133,15 @@ Inglish adheres to the following principles:
 |ea|flea|flei||
 |ea|bread|bred||
 |ea|hear|hir||
-|ea|earl|ùrl||
+|ea|earl|url||
 |ee|bee|bei||
 |ee|beer|bir||
 |ei|beige|bayj||
-|eo|peon|pei·èn||
-|eo|pigeon|pidjèn||
-|eo|ceorl|kùrl||
-|eu|feud|fiud||
-|ew|few|fiu||
+|eo|peon|pei·en||
+|eo|pigeon|pidjen||
+|eo|ceorl|curl||
+|eu|feud|fyued||
+|ew|few|fyue||
 |ew|sew|sow||
 |ey|key|kei||
 |ey|they|dhay||
@@ -147,13 +153,13 @@ Inglish adheres to the following principles:
 |oa|oar|or||
 |oe|shoe|shue||
 |oe|toe|tow||
-|oi|coin|koyn||
+|oi|coin|coyn||
 |oo|book|bouk||
 |oo|too|tue||
 |oo|door|dor||
 |ou|out|uwt||
-|ou|bayou|bòyue||
-|ou|our|uwèr||
+|ou|bayou|boh·yue||
+|ou|our|uwer||
 |ow|low|low||
 |ow|how|huw||
 |oy|toy|toy||
@@ -163,11 +169,11 @@ Inglish adheres to the following principles:
 #### Basic
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|b|bad|bàd||
+|b|bad|bad||
 |c|arc|ark||
 |d|did|did||
 |f|far|far||
-|g|gun|gùn||
+|g|gun|gun||
 |h|hi|hiy||
 |j|jar|gjar||
 |k|skin|skin||
@@ -176,9 +182,9 @@ Inglish adheres to the following principles:
 |n|no|now||
 |p|spin|spin||
 |q|quiz|qwiz||
-|r|rod|ròd||
+|r|rod|rod||
 |s|sue|sue||
-|t|stop|stòp||
+|t|stop|stop||
 |v|vet|vet||
 |w|why|wiy||
 |x|six|sixs||
@@ -188,49 +194,48 @@ Inglish adheres to the following principles:
 #### Aspirated voiceless stops
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
-|c|can|kàn||
+|c|can|can||
 |k|keep|keip||
-|p|pan|pàn||
-|t|top|tòp||
+|p|pan|pan||
+|t|top|top||
 
 #### Other fricatives
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
 |c|cent|sent||
 |ch|chip|chip||
-|tch|match|màtsh||
+|tch|match|matsh||
 |ch|chef|shef||
-|ch|loch|lòk||
-|f|of|òv||
+|ch|loch|lok||
+|f|of|ov||
 |g|gem|gjem||
-|dg|badger|bàdjèr||
+|dg|badger|badjer||
 |g|beige|bayj||
-|gh|rough|rùf||
-|j|raj|ròj||
+|gh|rough|ruf||
+|j|raj|roj||
 |ph|phone|fown||
 |s|is|iz||
-|s|measure|mejèr||
+|s|measure|mejer||
 |sh|ship|ship||
-|t|nation|nayshèn||
+|t|nation|nayshen||
 |th|thin|thin||
-|th|that|dhàt||
-|x|exam|ixzàm||
-|z|azure|àjèr||
+|th|that|dhat||
+|x|exam|ixz _a_ m||
+|z|azure|ajer||
 
 #### Other consonant
 ||English|Inglish|IPA|
 |:-:|:-----:|:-----:|:-:|
 |l|ball|baul||
 |ng|wing|wing||
-|tt|utter|ù·tèr||
-|nt|winter|wintèr||
+|tt|utter|utter||
+|nt|winter|winter||
 
 ### Example
 The Tower of Babel
 
-dhù tuwèr òv Babel
-
+TODO
 
 Now the whole world had one language and a common speech. As people moved eastward, they found a plain in Shinar and settled there.
 
-nuw dhù howl wùrld hàd wùn làngwidj ànd ù kò·mèn speitsh; às peipèl muevd eistwèrd, dhay fuwnd ù playn in Shinar ànd se·tèld dher;
+TODO
