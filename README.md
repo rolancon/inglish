@@ -221,7 +221,7 @@ Inglish adheres to the following principles:
 |t|nation|nayshen||
 |th|thin|thin||
 |th|that|dhat||
-|x|exam|ixz _a_ m||
+|x|exam|ixz'am||
 |z|azure|ajer||
 
 #### Other consonant
